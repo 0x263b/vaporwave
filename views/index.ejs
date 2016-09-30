@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
 	<title>Essential Vaporwave</title>
 	<meta name="theme-color" content="#000">
-	<link rel="stylesheet" type="text/css" href="/style.css">
+	<link rel="stylesheet" type="text/css" href="/style.min.css">
 </head>
 <body>
 
@@ -23,6 +23,9 @@
 			<li><a href="#hypnagogic">Hypnagogic</a></li>
 			<li><a href="#vaportrap">Vaportrap</a></li>
 			<li><a href="#compilation">Compilations</a></li>
+			<li><a href="#ambient">Ambient</a></li>
+			<li><a href="#mallsoft">Mallsoft</a></li>
+			<li><a href="#experimental">Experimental</a></li>
 			<li><a href="#further-reading">Further Reading</a></li>
 		</ul>
 	</nav>
@@ -90,10 +93,49 @@
 		</div>
 	</section>
 
+	<section class="genre" id="ambient">
+		<a href="/music/ambient">
+			<div class="art" data-src="/section/ambient.jpg"></div>
+		</a>
+		<div class="padding">
+			<h1 class="heading">Ambient</h1>
+			<span class="total"><%= albums.filter(findTag, 'ambient').length %> Albums</span>
+			<p class="desc"><%= genres['ambient'].desc %></p>
+			<a class="more" href="/music/ambient">See More →</a>
+		</div>
+	</section>
+
+	<section class="genre" id="mallsoft">
+		<a href="/music/mallsoft">
+			<div class="art" data-src="/section/mallsoft.jpg"></div>
+		</a>
+		<div class="padding">
+			<h1 class="heading">Mallsoft</h1>
+			<span class="total"><%= albums.filter(findTag, 'mallsoft').length %> Albums</span>
+			<p class="desc"><%= genres['mallsoft'].desc %></p>
+			<a class="more" href="/music/mallsoft">See More →</a>
+		</div>
+	</section>
+
+	<section class="genre" id="experimental">
+		<a href="/music/vaportrap">
+			<div class="art" data-src="/section/experimental.jpg"></div>
+		</a>
+		<div class="padding">
+			<h1 class="heading">Experimental</h1>
+			<span class="total"><%= albums.filter(findTag, 'experimental').length %> Albums</span>
+			<p class="desc"><%= genres['experimental'].desc %></p>
+			<a class="more" href="/music/experimental">See More →</a>
+		</div>
+	</section>
+
+	
+
 	<section class="genre" id="further-reading">
 		<div class="padding">
 			<h1>Further Reading</h1>
 			<ul class="list">
+				<li><a href="https://www.youtube.com/watch?v=PdpP0mXOlWM">History of Vaporwave Mini Documentary</a></li>
 				<li><a href="https://daily.bandcamp.com/tag/vaporwave/">Vaporwave on Bandcamp Daily</a></li>
 				<li><a href="https://www.reddit.com/r/Vaporwave/wiki/labels">Music Labels</a></li>
 				<li><a href="https://www.reddit.com/r/Vaporwave/wiki/basics">Vaporwave wiki</a></li>
