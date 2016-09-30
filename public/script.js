@@ -23,7 +23,7 @@ var nav = document.getElementById("nav")
 document.addEventListener("scroll", function(event) {
 	if (document.body.clientWidth > 800) {
 		alpha = 1 - (document.documentElement.scrollTop || document.body.scrollTop / window.innerHeight)
-		nav.style.opacity = alpha > 0.2 ? alpha : 0.2
+		nav.style.opacity = alpha > 0.33 ? alpha : 0.33
 	} else {
 		nav.style.opacity = 1
 	}

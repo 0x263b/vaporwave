@@ -11,7 +11,7 @@ var compression  = require('compression'),
 app.set('port', (process.env.PORT || process.env.port || 3000))
 
 // Static conent
-app.use(express.static('public'))
+app.use(express.static(__dirname + '/public', { maxage: '356d' }))
 
 // Templating
 app.set('view engine', 'ejs')
@@ -19,6 +19,7 @@ app.set('views', __dirname)
 
 // Compression
 app.use(compression())
+
 
 function findTag(album) { 
 	return album.tags.includes(this)
@@ -53,6 +54,7 @@ app.get('/music/:tag/:page?', function(req, res) {
 		return res.sendStatus(404) // Overflow
 	}
 
+	res.header('Cache-Control', 'public, max-age=31536000')
 	res.render('views/genre', opts)
 })
 
@@ -65,12 +67,15 @@ app.get('/', function(req, res) {
 			return album.tags.includes(this)
 		}
 	}
+
+	res.header('Cache-Control', 'public, max-age=31536000')
 	res.render('views/index', opts)
 })
 
 
 app.get('*', function(req, res){
 	res.status(404)
+	res.header('Cache-Control', 'public, max-age=31536000')
 	res.render('views/404')
 })
 

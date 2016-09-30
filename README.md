@@ -1,1 +1,3 @@
-# 10k Apart 2016 submission
+# Essential Vaporwave
+
+An online catalog of vaporwave albums deemed essential by various internet communities.
