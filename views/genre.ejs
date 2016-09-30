@@ -27,8 +27,8 @@
 				<li>
 					<a href="<%= album.url %>">
 						<div class="img" data-src="/300/<%= album.id %>.jpg"></div>
-						<b><%= album.album %></b><br>
-						<i><%= album.artist %></i>
+						<span aria-label="Album: <%= album.album %>, by <%= album.artist %>"><b><%= album.album %></b><br>
+						<i><%= album.artist %></i></span>
 					</a>
 				</li>
 			<% }); %>
@@ -38,14 +38,14 @@
 	<div class="page">
 		<div>
 			<% if (index > 1) { %>
-			<a href="/music/<%= tag.slug %>/<%= index - 1 %>">← Previous</a><% } %>
+			<a href="/music/<%= tag.slug %>/<%= index - 1 %>" aria-label="Go to page <%= index - 1 %>">← Previous</a><% } %>
 		</div>
 		<div>
 			Page <%= index %> of <%= Math.ceil(albums.length / 24) %>
 		</div>
 		<div>
 			<% if ((index - 1) * 24 + 24 < albums.length) { %>
-			<a href="/music/<%= tag.slug %>/<%= index + 1 %>">Next →</a><% } %>
+			<a href="/music/<%= tag.slug %>/<%= index + 1 %>" aria-label="Go to page <%= index + 1 %>">Next →</a><% } %>
 		</div>
 	</div>
 
@@ -53,17 +53,17 @@
 
 <footer class="genre">
 	<nav id="nav">
-		<h2><a href="/">Essential Vaporwave</a></h2>
+		<h2><a href="/" aria-label="Return to main page">Essential Vaporwave</a></h2>
 		<ul>
-			<li><a href="/music/vaporwave">Vaporwave</a></li>
-			<li><a href="/music/future-funk">Future Funk</a></li>
-			<li><a href="/music/hypnagogic">Hypnagogic</a></li>
-			<li><a href="/music/vaportrap">Vaportrap</a></li>
-			<li><a href="/music/compilation">Compilations</a></li>
-			<li><a href="/music/ambient">Ambient</a></li>
-			<li><a href="/music/mallsoft">Mallsoft</a></li>
-			<li><a href="/music/experimental">Experimental</a></li>
-			<li><a href="/#further-reading">Further Reading</a></li>
+			<li><a aria-label="Browse Vaporwave Albums" href="/music/vaporwave">Vaporwave</a></li>
+			<li><a aria-label="Browse Future Funk Albums" href="/music/future-funk">Future Funk</a></li>
+			<li><a aria-label="Browse Hypnagogic Albums" href="/music/hypnagogic">Hypnagogic</a></li>
+			<li><a aria-label="Browse Vaportrap Albums" href="/music/vaportrap">Vaportrap</a></li>
+			<li><a aria-label="Browse Compilation Albums" href="/music/compilation">Compilations</a></li>
+			<li><a aria-label="Browse Ambient Albums" href="/music/ambient">Ambient</a></li>
+			<li><a aria-label="Browse Mallsoft Albums" href="/music/mallsoft">Mallsoft</a></li>
+			<li><a aria-label="Browse Experimental Albums" href="/music/experimental">Experimental</a></li>
+			<li><a aria-label="Further Reading" href="/#further-reading">Further Reading</a></li>
 		</ul>
 	</nav>
 </footer>
