@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+	<title>Essential Vaporwave</title>
+
+	<link rel="stylesheet" type="text/css" href="/style.css">
+</head>
+<body>
+
+<section class="genre header">
+	<h1>Essential<br>Vaporwave</h1>
+	<p class="desc">
+		Vaporwave is a subculture that had started emerging at around 2010, and has become more prominent in the early 2010's. The term originates from the term vaporware. It is considered a musical genre, as well as having a visual aesthetic. 
+	</p>
+
+	<nav id="nav">
+		<ul>
+			<li><a href="#music-videos">Music Videos</a></li>
+			<li><a href="#vaporwave">Vaporwave</a></li>
+			<li><a href="#future-funk">Future Funk</a></li>
+			<li><a href="#hypnagogic">Hypnagogic</a></li>
+			<li><a href="#vaportrap">Vaportrap</a></li>
+			<li><a href="/#labels">Record Labels</a></li>
+			<li><a href="#further-reading">Further Reading</a></li>
+		</ul>
+	</nav>
+</section>
+
+<main>
+
+	<section class="genre wide" id="music-videos">
+		<div class="art" style="background-color: #ff296c;"></div>
+		<div class="padding">
+			<h1 class="">Music Videos</h1>
+			<span class="total">27 Albums</span>
+			<p class="desc">
+				Characterized predominantly by samples of 80‘s and 90’s pop, funk, and disco releases, slowed down, rearranged, fliped, and reversed to create an new orignal work. Vaporwave tracks often are a comment on the kitschy and/or banal source material, or mass
+				production as a whole.
+			</p>
+			<a class="more" href="/videos">See More →</a>
+		</div>
+	</section>
+
+	<section class="genre" id="vaporwave">
+		<div class="art" data-src="/section/vaporwave.png"></div>
+		<div class="padding">
+			<h1 class="heading">Vaporwave</h1>
+			<span class="total"><%= albums.filter(findTag, 'vaporwave').length %> Albums</span>
+			<p class="desc">
+				Characterized predominantly by samples of 80‘s and 90’s pop, funk, and disco releases, slowed down, rearranged, fliped, and reversed to create an new orignal work. Vaporwave tracks often are a comment on the kitschy and/or banal source material, or mass
+				production as a whole.
+			</p>
+			<a class="more" href="/music/vaporwave">See More →</a>
+		</div>
+	</section>
+
+	<section class="genre" id="future-funk">
+		<div class="art" data-src="/section/future-funk.jpg"></div>
+		<div class="padding">
+			<h1 class="heading">Future Funk</h1>
+			<span class="total"><%= albums.filter(findTag, 'future-funk').length %> Albums</span>
+			<p class="desc">
+				Characterized predominantly by samples of 80‘s and 90’s pop, funk, and disco releases, slowed down, rearranged, fliped, and reversed to create an new orignal work. Vaporwave tracks often are a comment on the kitschy and/or banal source material, or mass
+				production as a whole.
+			</p>
+			<a class="more" href="/music/future-funk">See More →</a>
+		</div>
+	</section>
+
+	<section class="genre" id="hypnagogic">
+		<div class="art" data-src="/section/hypnagogic.jpg"></div>
+		<div class="padding">
+			<h1 class="heading">Hypnagogic</h1>
+			<span class="total"><%= albums.filter(findTag, 'hypnagogic').length %> Albums</span>
+			<p class="desc">
+				Characterized predominantly by samples of 80‘s and 90’s pop, funk, and disco releases, slowed down, rearranged, fliped, and reversed to create an new orignal work. Vaporwave tracks often are a comment on the kitschy and/or banal source material, or mass
+				production as a whole.
+			</p>
+			<a class="more" href="/music/hypnagogic">See More →</a>
+		</div>
+	</section>
+
+	<section class="genre" id="vaportrap">
+		<div class="art" data-src="/section/vaportrap.jpg"></div>
+		<div class="padding">
+			<h1 class="heading">Vaportrap</h1>
+			<span class="total"><%= albums.filter(findTag, 'vaportrap').length %> Albums</span>
+			<p class="desc">
+				Characterized predominantly by samples of 80‘s and 90’s pop, funk, and disco releases, slowed down, rearranged, fliped, and reversed to create an new orignal work. Vaporwave tracks often are a comment on the kitschy and/or banal source material, or mass
+				production as a whole.
+			</p>
+			<a class="more" href="/music/vaportrap">See More →</a>
+		</div>
+	</section>
+
+	<section class="genre" id="labels">
+		<div class="art" style="background-color:#941083"></div>
+		<div class="padding">
+			<h1 class="heading">Record Labels</h1>
+			<span class="total">27 Albums</span>
+			<p class="desc">
+				Characterized predominantly by samples of 80‘s and 90’s pop, funk, and disco releases, slowed down, rearranged, fliped, and reversed to create an new orignal work. Vaporwave tracks often are a comment on the kitschy and/or banal source material, or mass
+				production as a whole.
+			</p>
+			<a class="more" href="/music/vaportrap">See More →</a>
+		</div>
+	</section>
+
+	<section class="genre" id="further-reading">
+		<div class="padding">
+			<h1>Further Reading</h1>
+			<ul class="list">
+				<li><a href="https://daily.bandcamp.com/tag/vaporwave/">Vaporwave on Bandcamp Daily</a></li>
+				<li><a href="https://www.reddit.com/r/Vaporwave/wiki/basics">Vaporwave wiki</a></li>
+				<li><a href="https://www.reddit.com/r/Vaporwave/">Vaporwave subreddit</a></li>
+				<li><a href="https://discordapp.com/invite/DmS5vhJ">Ocean Lounge (Discord chatroom)</a></li>
+			</ul>
+		</div>
+	</section>
+
+</main>
+
+<script src="/script.js"></script>
+</body>
+</html>

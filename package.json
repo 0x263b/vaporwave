@@ -1,0 +1,23 @@
+{
+	"name":"Vaporwave",
+	"description":"10k Apart 2016 submission",
+	"version":"0.0.1",
+	"author":"Abram Kash",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/0x263b/vaporwave.git"
+	},
+	"license":"MIT",
+	"engines":{
+		"node":"6.x"
+	},
+	"main":"app.js",
+	"scripts":{
+		"start":"node app.js"
+	},
+	"dependencies":{
+		"express":"4.x",
+		"ejs":"2.5.x",
+		"compression":"1.6.x"
+	}
+}
