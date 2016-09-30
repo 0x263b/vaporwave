@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "id": 1,
-      "artist": "2814",
-      "album": "新しい日の誕生",
-      "url": "https://dreamcatalogue.bandcamp.com/album/--18",
-      "art": "https://f4.bcbits.com/img/a4099353330_7.jpg",
-      "tags": [
-        "ambient",
-        "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
       "id": 2,
       "artist": ".CASTING",
       "album": "5AM",
@@ -57,94 +45,6 @@
       "fans": 56
     },
     {
-      "id": 6,
-      "artist": "「ｎｅｗｔｙｐｅ」",
-      "album": "ＳＩＭ ＥＡＲＴＨ™ ｕｌｔｒａ気候",
-      "url": "https://newtype420.bandcamp.com/album/-",
-      "art": "https://f4.bcbits.com/img/a2821986195_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 7
-    },
-    {
-      "id": 7,
-      "artist": "「サンセット Ｎｅｔｗｏｒｋ❾❶」",
-      "album": "ＨＩＧＨ～ＦＡＳＨＩＯＮ「犯罪現場」",
-      "url": "https://sunset-network.bandcamp.com/album/--4",
-      "art": "https://f4.bcbits.com/img/a0558740325_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 27
-    },
-    {
-      "id": 8,
-      "artist": "「サンセット Ｎｅｔｗｏｒｋ❾❶」",
-      "album": "Strangers Once Lovers「メモリー」",
-      "url": "https://dmtrec.bandcamp.com/album/strangers-once-lovers",
-      "art": "https://f4.bcbits.com/img/a2652260667_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 43
-    },
-    {
-      "id": 9,
-      "artist": "§E▲ ▓F D▓G§",
-      "album": "In Search Of God",
-      "url": "https://midnightmoontapes.bandcamp.com/album/in-search-of-god",
-      "art": "https://f4.bcbits.com/img/a0618456498_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 39
-    },
-    {
-      "id": 10,
-      "artist": "§E▲ ▓F D▓G§",
-      "album": "OG GLAZED VOL. 1",
-      "url": "https://elemental95.bandcamp.com/album/og-glazed-vol-1",
-      "art": "https://f4.bcbits.com/img/a0607242006_7.jpg",
-      "tags": [
-        "experimental"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 11,
-      "artist": "` ` ` NEW FIGURE VARIETY",
-      "album": "NEW DESK QUIT CABLE",
-      "url": "https://elemental95.bandcamp.com/album/new-desk-quit-cable",
-      "art": "https://f4.bcbits.com/img/a2076371966_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 12,
-      "artist": "<456> <ae.blitpipe> <2>",
-      "album": "Дѕіаи αмвιєηтє Ӡ",
-      "url": "https://456aeblitpipe2makingnewcontext.bandcamp.com/album/-",
-      "art": "https://f4.bcbits.com/img/a4090884641_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 2
-    },
-    {
-      "id": 13,
-      "artist": "░▒▓新しいデラックスライフ▓▒░",
-      "album": "▣世界から解放され▣",
-      "url": "https://internetclub.bandcamp.com/album/-",
-      "art": "https://f4.bcbits.com/img/a3735408238_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 80
-    },
-    {
       "id": 14,
       "artist": "01100001 S.T.A.R.D.U.S.T. Subsidiary",
       "album": "Arcadia Campus: Virtual Tour",
@@ -165,6 +65,17 @@
         "hypnagogic"
       ],
       "fans": 0
+    },
+    {
+      "id": 18,
+      "artist": "18 Carat Affair",
+      "album": "The Life Of Vice",
+      "url": "https://18carataffair.bandcamp.com/album/the-life-of-vice",
+      "art": "https://f4.bcbits.com/img/a1453408244_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 57
     },
     {
       "id": 16,
@@ -189,15 +100,38 @@
       "fans": 79
     },
     {
-      "id": 18,
-      "artist": "18 Carat Affair",
-      "album": "The Life Of Vice",
-      "url": "https://18carataffair.bandcamp.com/album/the-life-of-vice",
-      "art": "https://f4.bcbits.com/img/a1453408244_7.jpg",
+      "id": 401,
+      "artist": "2047",
+      "album": "Ｓｎｏｗ",
+      "url": "https://www.youtube.com/watch?v=lO5cR5JaHyc",
+      "art": "",
       "tags": [
         "hypnagogic"
       ],
-      "fans": 57
+      "fans": 0
+    },
+    {
+      "id": 393,
+      "artist": "2047",
+      "album": "새로운 삶을 시작",
+      "url": "https://www.youtube.com/watch?v=4TuftOnKCdk",
+      "art": "",
+      "tags": [
+        "ambient"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 1,
+      "artist": "2814",
+      "album": "新しい日の誕生",
+      "url": "https://dreamcatalogue.bandcamp.com/album/--18",
+      "art": "https://f4.bcbits.com/img/a4099353330_7.jpg",
+      "tags": [
+        "ambient",
+        "hypnagogic"
+      ],
+      "fans": 80
     },
     {
       "id": 19,
@@ -211,6 +145,28 @@
       "fans": 25
     },
     {
+      "id": 411,
+      "artist": "4D Entity",
+      "album": "Extra​-​Dimensional Terrestrials",
+      "url": "https://www.youtube.com/watch?v=WGV8o_zbaPY",
+      "art": "",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 12,
+      "artist": "<456> <ae.blitpipe> <2>",
+      "album": "Дѕіаи αмвιєηтє Ӡ",
+      "url": "https://456aeblitpipe2makingnewcontext.bandcamp.com/album/-",
+      "art": "https://f4.bcbits.com/img/a4090884641_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 2
+    },
+    {
       "id": 20,
       "artist": "AESTHETICS PLEASE",
       "album": "RIGHTEOUS GROOVE",
@@ -220,6 +176,17 @@
         "future-funk"
       ],
       "fans": 80
+    },
+    {
+      "id": 31,
+      "artist": "AUT2M",
+      "album": "MCMLXX",
+      "url": "https://jukaisuicideforest.bandcamp.com/album/mcmlxx",
+      "art": "https://f4.bcbits.com/img/a1489743485_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 5
     },
     {
       "id": 21,
@@ -266,6 +233,17 @@
       "fans": 31
     },
     {
+      "id": 409,
+      "artist": "Amun Dragoon",
+      "album": "Unlimited Dream Company",
+      "url": "https://www.youtube.com/watch?v=u1IEoYe9-6o",
+      "art": "",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 0
+    },
+    {
       "id": 25,
       "artist": "Amun Dragoon & Mensa Group International",
       "album": "Fjords, Vol. II",
@@ -286,6 +264,17 @@
         "hypnagogic"
       ],
       "fans": 27
+    },
+    {
+      "id": 406,
+      "artist": "Architecture In Tokyo",
+      "album": "Architecture In Tokyo",
+      "url": "https://www.youtube.com/watch?v=skX73x48SDE",
+      "art": "",
+      "tags": [
+        "future-funk"
+      ],
+      "fans": 0
     },
     {
       "id": 27,
@@ -332,15 +321,15 @@
       "fans": 80
     },
     {
-      "id": 31,
-      "artist": "AUT2M",
-      "album": "MCMLXX",
-      "url": "https://jukaisuicideforest.bandcamp.com/album/mcmlxx",
-      "art": "https://f4.bcbits.com/img/a1489743485_7.jpg",
+      "id": 34,
+      "artist": "B o d y l i n e",
+      "album": "MOTION PICTURE",
+      "url": "https://bodyline.bandcamp.com/album/motion-picture",
+      "art": "https://f4.bcbits.com/img/a0573830184_7.jpg",
       "tags": [
-        "vaportrap"
+        "vaporwave"
       ],
-      "fans": 5
+      "fans": 28
     },
     {
       "id": 32,
@@ -365,26 +354,15 @@
       "fans": 46
     },
     {
-      "id": 34,
-      "artist": "B o d y l i n e",
-      "album": "MOTION PICTURE",
-      "url": "https://bodyline.bandcamp.com/album/motion-picture",
-      "art": "https://f4.bcbits.com/img/a0573830184_7.jpg",
+      "id": 37,
+      "artist": "BALENTSバランス",
+      "album": "when u chillin but u blazed doe",
+      "url": "https://dmttapes.bandcamp.com/album/when-u-chillin-but-u-blazed-doe-dmt-169",
+      "art": "https://f4.bcbits.com/img/a1461433964_7.jpg",
       "tags": [
-        "vaporwave"
+        "post-vapor"
       ],
-      "fans": 28
-    },
-    {
-      "id": 35,
-      "artist": "Babestation2",
-      "album": "CORMORAN MUSICA",
-      "url": "https://babestation2.bandcamp.com/album/cormoran-musica",
-      "art": "https://f4.bcbits.com/img/a3448804639_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 25
+      "fans": 80
     },
     {
       "id": 36,
@@ -398,15 +376,15 @@
       "fans": 80
     },
     {
-      "id": 37,
-      "artist": "BALENTSバランス",
-      "album": "when u chillin but u blazed doe",
-      "url": "https://dmttapes.bandcamp.com/album/when-u-chillin-but-u-blazed-doe-dmt-169",
-      "art": "https://f4.bcbits.com/img/a1461433964_7.jpg",
+      "id": 35,
+      "artist": "Babestation2",
+      "album": "CORMORAN MUSICA",
+      "url": "https://babestation2.bandcamp.com/album/cormoran-musica",
+      "art": "https://f4.bcbits.com/img/a3448804639_7.jpg",
       "tags": [
-        "experimental"
+        "vaporwave"
       ],
-      "fans": 80
+      "fans": 25
     },
     {
       "id": 38,
@@ -418,50 +396,6 @@
         "vaporwave"
       ],
       "fans": 80
-    },
-    {
-      "id": 39,
-      "artist": "bbrainz",
-      "album": "internet lust",
-      "url": "https://bbrainz.bandcamp.com/album/internet-lust",
-      "art": "https://f4.bcbits.com/img/a3363395156_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 40,
-      "artist": "bbrainz",
-      "album": "jungle2000",
-      "url": "https://colosseumrecords.bandcamp.com/album/jungle2000",
-      "art": "https://f4.bcbits.com/img/a1722876517_7.jpg",
-      "tags": [
-        "experimental"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 41,
-      "artist": "bbrainz",
-      "album": "pizza contigo",
-      "url": "https://bbrainz.bandcamp.com/album/pizza-contigo",
-      "art": "https://f4.bcbits.com/img/a2093905953_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 42,
-      "artist": "be____all",
-      "album": "Light Heart, No Mind",
-      "url": "https://be----all.bandcamp.com/album/light-heart-no-mind-ep",
-      "art": "https://f4.bcbits.com/img/a2334743749_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 0
     },
     {
       "id": 43,
@@ -484,50 +418,6 @@
         "hypnagogic"
       ],
       "fans": 9
-    },
-    {
-      "id": 45,
-      "artist": "bl00dwave",
-      "album": "hotel vibes",
-      "url": "http://music.businesscasual.biz/album/hotel-vibes",
-      "art": "https://f4.bcbits.com/img/a0245639087_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 46,
-      "artist": "bl00dwave",
-      "album": "NEW VISUALS",
-      "url": "https://bl00dwave.bandcamp.com/album/--3",
-      "art": "https://f4.bcbits.com/img/a2416889753_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 47,
-      "artist": "bl00dwave",
-      "album": "SEA VIBES",
-      "url": "https://bl00dwave.bandcamp.com/album/--4",
-      "art": "https://f4.bcbits.com/img/a2107938279_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 48,
-      "artist": "bl00dwave",
-      "album": "ＵＬＴＲＡＤＲＥＡＭ",
-      "url": "https://bl00dwave.bandcamp.com/album/--5",
-      "art": "https://f4.bcbits.com/img/a1425716819_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 80
     },
     {
       "id": 49,
@@ -563,28 +453,6 @@
       "fans": 19
     },
     {
-      "id": 52,
-      "artist": "business casual",
-      "album": "ANNIVERSARY VOL. 2",
-      "url": "http://music.businesscasual.biz/album/anniversary-vol-2",
-      "art": "https://f4.bcbits.com/img/a3816472635_7.jpg",
-      "tags": [
-        "compilation"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 53,
-      "artist": "business casual",
-      "album": "Digital Office One",
-      "url": "http://music.businesscasual.biz/album/digital-office-one",
-      "art": "https://f4.bcbits.com/img/a1672922820_7.jpg",
-      "tags": [
-        "compilation"
-      ],
-      "fans": 80
-    },
-    {
       "id": 54,
       "artist": "C A S I N O ☆★☆★☆ M A S T E R",
       "album": "☆★☆ ボーナススピン幸運 ！！！",
@@ -605,17 +473,6 @@
         "hardvapor"
       ],
       "fans": 29
-    },
-    {
-      "id": 56,
-      "artist": "Captain T.V. 舰长电视",
-      "album": "Pink Marble",
-      "url": "http://beerwizard.net/album/pink-marble",
-      "art": "https://f4.bcbits.com/img/a2237724446_7.jpg",
-      "tags": [
-        "future-funk"
-      ],
-      "fans": 80
     },
     {
       "id": 57,
@@ -640,106 +497,6 @@
       "fans": 2
     },
     {
-      "id": 59,
-      "artist": "Channel 505",
-      "album": "日本の天気と気候",
-      "url": "https://channel505.bandcamp.com/album/--4",
-      "art": "https://f4.bcbits.com/img/a1257904635_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 6
-    },
-    {
-      "id": 60,
-      "artist": "Chinese Hackers",
-      "album": "Selfless",
-      "url": "https://midnightmoontapes.bandcamp.com/album/selfless",
-      "art": "https://f4.bcbits.com/img/a1264787841_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 26
-    },
-    {
-      "id": 61,
-      "artist": "chris†††",
-      "album": "no lives matter",
-      "url": "https://bedlamtapes.bandcamp.com/album/no-lives-matter",
-      "art": "https://f4.bcbits.com/img/a2406580377_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 62,
-      "artist": "chris†††",
-      "album": "包容",
-      "url": "https://christtt.bandcamp.com/album/--3",
-      "art": "https://f4.bcbits.com/img/a3870833565_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 3
-    },
-    {
-      "id": 63,
-      "artist": "Chungking Mansions",
-      "album": "ShowView",
-      "url": "https://dreamcatalogue.bandcamp.com/album/showview",
-      "art": "https://f4.bcbits.com/img/a0973201465_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 36
-    },
-    {
-      "id": 64,
-      "artist": "Chungking Mansions",
-      "album": "安全出口EXIT空间和时间",
-      "url": "https://dreamcatalogue.bandcamp.com/album/exit",
-      "art": "https://f4.bcbits.com/img/a1764792099_7.jpg",
-      "tags": [
-        "vaporwave",
-        "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 65,
-      "artist": "Cobalt Road",
-      "album": "Purgatory",
-      "url": "https://cobaltroad.bandcamp.com/album/purgatory",
-      "art": "https://f4.bcbits.com/img/a0472805147_7.jpg",
-      "tags": [
-        "vaportrap"
-      ],
-      "fans": 4
-    },
-    {
-      "id": 66,
-      "artist": "Cobalt Road",
-      "album": "Venetian Blinds",
-      "url": "https://cobaltroad.bandcamp.com/album/venetian-blinds",
-      "art": "https://f4.bcbits.com/img/a4169759264_7.jpg",
-      "tags": [
-        "vaportrap"
-      ],
-      "fans": 5
-    },
-    {
-      "id": 67,
-      "artist": "Cobalt Road & STΛQQ ƟVERFLƟ",
-      "album": "Biosphere",
-      "url": "https://bedlamtapes.bandcamp.com/album/biosphere",
-      "art": "https://f4.bcbits.com/img/a0900430555_7.jpg",
-      "tags": [
-        "vaportrap"
-      ],
-      "fans": 80
-    },
-    {
       "id": 68,
       "artist": "COCAINEJESUS",
       "album": "We're Worried About You",
@@ -751,39 +508,6 @@
       "fans": 80
     },
     {
-      "id": 69,
-      "artist": "colosseum",
-      "album": "NOW THAT'S WHAT I CALL VAPORWAVE",
-      "url": "https://colosseumrecords.bandcamp.com/album/now-thats-what-i-call-vaporwave",
-      "art": "https://f4.bcbits.com/img/a1764004399_7.jpg",
-      "tags": [
-        "compilation"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 70,
-      "artist": "Commercial Dreams Ltd.",
-      "album": "The Commercial Dream",
-      "url": "https://commercialdreamsltd.bandcamp.com/album/the-commercial-dream",
-      "art": "https://f4.bcbits.com/img/a1963647421_7.jpg",
-      "tags": [
-        "compilation"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 71,
-      "artist": "computer slime",
-      "album": "ミスト",
-      "url": "https://computerslime.bandcamp.com/album/-",
-      "art": "https://f4.bcbits.com/img/a0435449864_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 27
-    },
-    {
       "id": 72,
       "artist": "CONSUMERプロダクト",
       "album": "HARDWRLD",
@@ -793,6 +517,17 @@
         "hardvapor"
       ],
       "fans": 3
+    },
+    {
+      "id": 75,
+      "artist": "CVLTVRΣ",
+      "album": "Virtual Life",
+      "url": "https://cvltvre.bandcamp.com/album/virtual-life",
+      "art": "https://f4.bcbits.com/img/a1179825905_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 41
     },
     {
       "id": 73,
@@ -817,17 +552,6 @@
       "fans": 66
     },
     {
-      "id": 75,
-      "artist": "CVLTVRΣ",
-      "album": "Virtual Life",
-      "url": "https://cvltvre.bandcamp.com/album/virtual-life",
-      "art": "https://f4.bcbits.com/img/a1179825905_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 41
-    },
-    {
       "id": 76,
       "artist": "CYBEREALITYライフ",
       "album": "Internet Dating",
@@ -837,6 +561,106 @@
         "hypnagogic"
       ],
       "fans": 11
+    },
+    {
+      "id": 56,
+      "artist": "Captain T.V. 舰长电视",
+      "album": "Pink Marble",
+      "url": "http://beerwizard.net/album/pink-marble",
+      "art": "https://f4.bcbits.com/img/a2237724446_7.jpg",
+      "tags": [
+        "future-funk"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 59,
+      "artist": "Channel 505",
+      "album": "日本の天気と気候",
+      "url": "https://channel505.bandcamp.com/album/--4",
+      "art": "https://f4.bcbits.com/img/a1257904635_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 6
+    },
+    {
+      "id": 60,
+      "artist": "Chinese Hackers",
+      "album": "Selfless",
+      "url": "https://midnightmoontapes.bandcamp.com/album/selfless",
+      "art": "https://f4.bcbits.com/img/a1264787841_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 26
+    },
+    {
+      "id": 64,
+      "artist": "Chungking Mansions",
+      "album": "安全出口EXIT空间和时间",
+      "url": "https://dreamcatalogue.bandcamp.com/album/exit",
+      "art": "https://f4.bcbits.com/img/a1764792099_7.jpg",
+      "tags": [
+        "vaporwave",
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 63,
+      "artist": "Chungking Mansions",
+      "album": "ShowView",
+      "url": "https://dreamcatalogue.bandcamp.com/album/showview",
+      "art": "https://f4.bcbits.com/img/a0973201465_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 36
+    },
+    {
+      "id": 66,
+      "artist": "Cobalt Road",
+      "album": "Venetian Blinds",
+      "url": "https://cobaltroad.bandcamp.com/album/venetian-blinds",
+      "art": "https://f4.bcbits.com/img/a4169759264_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 5
+    },
+    {
+      "id": 65,
+      "artist": "Cobalt Road",
+      "album": "Purgatory",
+      "url": "https://cobaltroad.bandcamp.com/album/purgatory",
+      "art": "https://f4.bcbits.com/img/a0472805147_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 4
+    },
+    {
+      "id": 67,
+      "artist": "Cobalt Road & STΛQQ ƟVERFLƟ",
+      "album": "Biosphere",
+      "url": "https://bedlamtapes.bandcamp.com/album/biosphere",
+      "art": "https://f4.bcbits.com/img/a0900430555_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 70,
+      "artist": "Commercial Dreams Ltd.",
+      "album": "The Commercial Dream",
+      "url": "https://commercialdreamsltd.bandcamp.com/album/the-commercial-dream",
+      "art": "https://f4.bcbits.com/img/a1963647421_7.jpg",
+      "tags": [
+        "compilation"
+      ],
+      "fans": 80
     },
     {
       "id": 77,
@@ -850,13 +674,46 @@
       "fans": 79
     },
     {
-      "id": 78,
-      "artist": "D▲RKPYR▲MID",
-      "album": "A Heart Full of Love",
-      "url": "https://dreamcatalogue.bandcamp.com/album/a-heart-full-of-love",
-      "art": "https://f4.bcbits.com/img/a2849842878_7.jpg",
+      "id": 86,
+      "artist": "DARKPYRAMID",
+      "album": "Electrical Teardrops",
+      "url": "https://dreamcatalogue.bandcamp.com/album/electrical-teardrops",
+      "art": "https://f4.bcbits.com/img/a1117601728_7.jpg",
       "tags": [
         "hypnagogic"
+      ],
+      "fans": 31
+    },
+    {
+      "id": 98,
+      "artist": "DJ ALINA",
+      "album": "MANIAX",
+      "url": "https://dreamcatalogue.bandcamp.com/album/maniax",
+      "art": "https://f4.bcbits.com/img/a4154933585_7.jpg",
+      "tags": [
+        "hardvapor"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 99,
+      "artist": "DJ VLAD",
+      "album": "Hardvapour.",
+      "url": "https://antifur.bandcamp.com/album/hardvapour",
+      "art": "https://f4.bcbits.com/img/a3016951809_7.jpg",
+      "tags": [
+        "hardvapor"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 100,
+      "artist": "DMT Records",
+      "album": "[REC]•SELECTS, Vol. 1",
+      "url": "https://dmttapes.bandcamp.com/album/rec-selects-vol-1",
+      "art": "https://f4.bcbits.com/img/a1137679474_7.jpg",
+      "tags": [
+        "compilation"
       ],
       "fans": 80
     },
@@ -894,22 +751,22 @@
       "fans": 80
     },
     {
-      "id": 82,
+      "id": 83,
       "artist": "Dante Mars Ajeto！",
-      "album": "Celebrating Digital Artifacts",
-      "url": "https://bedlamtapes.bandcamp.com/album/celebrating-digital-artifacts",
-      "art": "https://f4.bcbits.com/img/a1070795527_7.jpg",
+      "album": "﻿Ｌｉｆｅ Ｅｎｔｅｒｐｒｉｓｅｓ",
+      "url": "https://dmttapes.bandcamp.com/album/dmt-134",
+      "art": "https://f4.bcbits.com/img/a0419412960_7.jpg",
       "tags": [
         "vaporwave"
       ],
       "fans": 80
     },
     {
-      "id": 83,
+      "id": 82,
       "artist": "Dante Mars Ajeto！",
-      "album": "﻿Ｌｉｆｅ Ｅｎｔｅｒｐｒｉｓｅｓ",
-      "url": "https://dmttapes.bandcamp.com/album/dmt-134",
-      "art": "https://f4.bcbits.com/img/a0419412960_7.jpg",
+      "album": "Celebrating Digital Artifacts",
+      "url": "https://bedlamtapes.bandcamp.com/album/celebrating-digital-artifacts",
+      "art": "https://f4.bcbits.com/img/a1070795527_7.jpg",
       "tags": [
         "vaporwave"
       ],
@@ -938,15 +795,16 @@
       "fans": 80
     },
     {
-      "id": 86,
-      "artist": "DARKPYRAMID",
-      "album": "Electrical Teardrops",
-      "url": "https://dreamcatalogue.bandcamp.com/album/electrical-teardrops",
-      "art": "https://f4.bcbits.com/img/a1117601728_7.jpg",
+      "id": 88,
+      "artist": "Darksleep",
+      "album": "Obviate",
+      "url": "http://darksleep.bandcamp.com/album/obviate",
+      "art": "https://f4.bcbits.com/img/a0676568438_7.jpg",
       "tags": [
-        "hypnagogic"
+        "vaporwave",
+        "experimental"
       ],
-      "fans": 31
+      "fans": 11
     },
     {
       "id": 87,
@@ -958,18 +816,6 @@
         "vaportrap"
       ],
       "fans": 41
-    },
-    {
-      "id": 88,
-      "artist": "Darksleep",
-      "album": "Obviate",
-      "url": "http://darksleep.bandcamp.com/album/obviate",
-      "art": "https://f4.bcbits.com/img/a0676568438_7.jpg",
-      "tags": [
-        "vaporwave",
-        "experimental"
-      ],
-      "fans": 11
     },
     {
       "id": 89,
@@ -992,28 +838,6 @@
         "vaporwave"
       ],
       "fans": 2
-    },
-    {
-      "id": 91,
-      "artist": "death’s dynamic shroud.wmv",
-      "album": "DERELICTメガタワー",
-      "url": "https://deathsdynamicshroud.bandcamp.com/album/derelict-3",
-      "art": "https://f4.bcbits.com/img/a3019981019_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 17
-    },
-    {
-      "id": 92,
-      "artist": "death’s dynamic shroud.wmv",
-      "album": "I'll Try Living Like This",
-      "url": "https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this",
-      "art": "https://f4.bcbits.com/img/a0102733853_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 62
     },
     {
       "id": 93,
@@ -1071,37 +895,16 @@
       "fans": 22
     },
     {
-      "id": 98,
-      "artist": "DJ ALINA",
-      "album": "MANIAX",
-      "url": "https://dreamcatalogue.bandcamp.com/album/maniax",
-      "art": "https://f4.bcbits.com/img/a4154933585_7.jpg",
+      "id": 102,
+      "artist": "Donovan Hikaru",
+      "album": "CRS 2.0",
+      "url": "https://adhesivesounds.bandcamp.com/album/crs-20",
+      "art": "https://f4.bcbits.com/img/a3558025094_7.jpg",
       "tags": [
-        "hardvapor"
+        "vaporwave",
+        "ambient"
       ],
-      "fans": 80
-    },
-    {
-      "id": 99,
-      "artist": "DJ VLAD",
-      "album": "Hardvapour.",
-      "url": "https://antifur.bandcamp.com/album/hardvapour",
-      "art": "https://f4.bcbits.com/img/a3016951809_7.jpg",
-      "tags": [
-        "hardvapor"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 100,
-      "artist": "DMT Records",
-      "album": "[REC]•SELECTS, Vol. 1",
-      "url": "https://dmttapes.bandcamp.com/album/rec-selects-vol-1",
-      "art": "https://f4.bcbits.com/img/a1137679474_7.jpg",
-      "tags": [
-        "compilation"
-      ],
-      "fans": 80
+      "fans": 24
     },
     {
       "id": 101,
@@ -1113,18 +916,6 @@
         "mallsoft"
       ],
       "fans": 0
-    },
-    {
-      "id": 102,
-      "artist": "Donovan Hikaru",
-      "album": "CRS 2.0",
-      "url": "https://adhesivesounds.bandcamp.com/album/crs-20",
-      "art": "https://f4.bcbits.com/img/a3558025094_7.jpg",
-      "tags": [
-        "vaporwave",
-        "ambient"
-      ],
-      "fans": 24
     },
     {
       "id": 103,
@@ -1149,6 +940,17 @@
       "fans": 80
     },
     {
+      "id": 402,
+      "artist": "Dream Catalogue",
+      "album": "DREAM_31",
+      "url": "https://www.youtube.com/watch?v=mFu-bTA0RgU",
+      "art": "",
+      "tags": [
+        "compilation"
+      ],
+      "fans": 0
+    },
+    {
       "id": 105,
       "artist": "Dreams West",
       "album": "Self-Titled",
@@ -1160,24 +962,24 @@
       "fans": 80
     },
     {
-      "id": 106,
-      "artist": "dstnt",
-      "album": "NSII / Night Signals II",
-      "url": "https://vektroid.bandcamp.com/album/night-signals-ii",
-      "art": "https://f4.bcbits.com/img/a2307680407_7.jpg",
+      "id": 405,
+      "artist": "Drip-133",
+      "album": "♡",
+      "url": "https://www.youtube.com/watch?v=rI2mkZ4Zb2Q",
+      "art": "",
       "tags": [
         "hypnagogic"
       ],
-      "fans": 80
+      "fans": 0
     },
     {
-      "id": 107,
-      "artist": "ECO VIRTUAL",
-      "album": "ATMOSPHERES 第1",
-      "url": "https://ecovirtual.bandcamp.com/album/atmospheres-1",
-      "art": "https://f4.bcbits.com/img/a0902382915_7.jpg",
+      "id": 78,
+      "artist": "D▲RKPYR▲MID",
+      "album": "A Heart Full of Love",
+      "url": "https://dreamcatalogue.bandcamp.com/album/a-heart-full-of-love",
+      "art": "https://f4.bcbits.com/img/a2849842878_7.jpg",
       "tags": [
-        "vaporwave"
+        "hypnagogic"
       ],
       "fans": 80
     },
@@ -1193,35 +995,24 @@
       "fans": 80
     },
     {
+      "id": 107,
+      "artist": "ECO VIRTUAL",
+      "album": "ATMOSPHERES 第1",
+      "url": "https://ecovirtual.bandcamp.com/album/atmospheres-1",
+      "art": "https://f4.bcbits.com/img/a0902382915_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 80
+    },
+    {
       "id": 109,
       "artist": "ECO VIRTUAL",
       "album": "ATMOSPHERES 第4",
       "url": "https://ecovirtual.bandcamp.com/album/atmospheres-4",
       "art": "https://f4.bcbits.com/img/a0356230652_7.jpg",
       "tags": [
-        "experimental"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 110,
-      "artist": "Elemental 95",
-      "album": "The Vape Council",
-      "url": "https://elemental95.bandcamp.com/album/the-vape-council-vol-1",
-      "art": "https://f4.bcbits.com/img/a1880067924_7.jpg",
-      "tags": [
-        "compilation"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 111,
-      "artist": "ESPRIT 空想",
-      "album": "summer night",
-      "url": "https://espritfantasy.bandcamp.com/album/summer-night",
-      "art": "https://f4.bcbits.com/img/a1270369030_7.jpg",
-      "tags": [
-        "hypnagogic"
+        "post-vapor"
       ],
       "fans": 80
     },
@@ -1231,6 +1022,17 @@
       "album": "virtua.zip",
       "url": "https://espritfantasy.bandcamp.com/album/virtua-zip",
       "art": "https://f4.bcbits.com/img/a4042324845_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 111,
+      "artist": "ESPRIT 空想",
+      "album": "summer night",
+      "url": "https://espritfantasy.bandcamp.com/album/summer-night",
+      "art": "https://f4.bcbits.com/img/a1270369030_7.jpg",
       "tags": [
         "hypnagogic"
       ],
@@ -1259,6 +1061,17 @@
       "fans": 80
     },
     {
+      "id": 110,
+      "artist": "Elemental 95",
+      "album": "The Vape Council",
+      "url": "https://elemental95.bandcamp.com/album/the-vape-council-vol-1",
+      "art": "https://f4.bcbits.com/img/a1880067924_7.jpg",
+      "tags": [
+        "compilation"
+      ],
+      "fans": 80
+    },
+    {
       "id": 115,
       "artist": "Eyeliner",
       "album": "High Fashion Mood Music",
@@ -1270,48 +1083,15 @@
       "fans": 73
     },
     {
-      "id": 116,
-      "artist": "Famicom Fountains",
-      "album": "PROGMAN​.​EXE",
-      "url": "https://famicomfountains.bandcamp.com/album/progman-exe",
-      "art": "https://f4.bcbits.com/img/a3352758533_7.jpg",
+      "id": 399,
+      "artist": "FATAL MEMORY ERROR",
+      "album": "Cherished",
+      "url": "https://www.youtube.com/watch?v=bQcVfnBKhi0",
+      "art": "",
       "tags": [
-        "vaporwave"
+        "hypnagogic"
       ],
-      "fans": 30
-    },
-    {
-      "id": 117,
-      "artist": "Flamingosis",
-      "album": "Kahunastyle",
-      "url": "https://keatscollective.bandcamp.com/album/kahunastyle",
-      "art": "https://f4.bcbits.com/img/a1775494562_7.jpg",
-      "tags": [
-        "future-funk"
-      ],
-      "fans": 6
-    },
-    {
-      "id": 118,
-      "artist": "Flamingosis",
-      "album": "Pleasure Palette",
-      "url": "https://flamingosis1.bandcamp.com/album/pleasure-palette",
-      "art": "https://f4.bcbits.com/img/a3868174200_7.jpg",
-      "tags": [
-        "future-funk"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 119,
-      "artist": "Flash Kostivich",
-      "album": "Hacking for Freedom",
-      "url": "https://dreamcatalogue.bandcamp.com/album/hacking-for-freedom",
-      "art": "https://f4.bcbits.com/img/a2526901619_7.jpg",
-      "tags": [
-        "hardvapor"
-      ],
-      "fans": 80
+      "fans": 0
     },
     {
       "id": 120,
@@ -1325,6 +1105,50 @@
       "fans": 80
     },
     {
+      "id": 116,
+      "artist": "Famicom Fountains",
+      "album": "PROGMAN​.​EXE",
+      "url": "https://famicomfountains.bandcamp.com/album/progman-exe",
+      "art": "https://f4.bcbits.com/img/a3352758533_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 30
+    },
+    {
+      "id": 118,
+      "artist": "Flamingosis",
+      "album": "Pleasure Palette",
+      "url": "https://flamingosis1.bandcamp.com/album/pleasure-palette",
+      "art": "https://f4.bcbits.com/img/a3868174200_7.jpg",
+      "tags": [
+        "future-funk"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 117,
+      "artist": "Flamingosis",
+      "album": "Kahunastyle",
+      "url": "https://keatscollective.bandcamp.com/album/kahunastyle",
+      "art": "https://f4.bcbits.com/img/a1775494562_7.jpg",
+      "tags": [
+        "future-funk"
+      ],
+      "fans": 6
+    },
+    {
+      "id": 119,
+      "artist": "Flash Kostivich",
+      "album": "Hacking for Freedom",
+      "url": "https://dreamcatalogue.bandcamp.com/album/hacking-for-freedom",
+      "art": "https://f4.bcbits.com/img/a2526901619_7.jpg",
+      "tags": [
+        "hardvapor"
+      ],
+      "fans": 80
+    },
+    {
       "id": 121,
       "artist": "Fluence",
       "album": "Elemental",
@@ -1334,39 +1158,6 @@
         "vaportrap"
       ],
       "fans": 80
-    },
-    {
-      "id": 122,
-      "artist": "fortune500",
-      "album": "Music Of The Now Age",
-      "url": "https://fortune500.bandcamp.com/album/the-music-of-the-now-age",
-      "art": "https://f4.bcbits.com/img/a4017363106_7.jpg",
-      "tags": [
-        "compilation"
-      ],
-      "fans": 67
-    },
-    {
-      "id": 123,
-      "artist": "fortune500",
-      "album": "Music Of The Now Age II",
-      "url": "https://fortune500.bandcamp.com/album/the-music-of-the-now-age-ii",
-      "art": "https://f4.bcbits.com/img/a0442667341_7.jpg",
-      "tags": [
-        "compilation"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 124,
-      "artist": "fortune500",
-      "album": "The Music of the Now Age III",
-      "url": "https://fortune500.bandcamp.com/album/the-music-of-the-now-age-iii",
-      "art": "https://f4.bcbits.com/img/a2232168348_7.jpg",
-      "tags": [
-        "compilation"
-      ],
-      "fans": 1
     },
     {
       "id": 125,
@@ -1402,37 +1193,48 @@
       "fans": 80
     },
     {
-      "id": 128,
-      "artist": "futurebandit",
-      "album": "Virtual Memory",
-      "url": "https://new-world.bandcamp.com/album/virtual-memory",
-      "art": "https://f4.bcbits.com/img/a2981659745_7.jpg",
+      "id": 138,
+      "artist": "GOLDEN LIVING ROOM",
+      "album": "New Nostalgia",
+      "url": "https://fortune500.bandcamp.com/album/new-nostalgia",
+      "art": "https://f4.bcbits.com/img/a1674998564_7.jpg",
       "tags": [
         "vaporwave"
       ],
-      "fans": 29
+      "fans": 1
     },
     {
-      "id": 129,
-      "artist": "g h o s t i n g",
-      "album": "Telenights",
-      "url": "https://dreamcatalogue.bandcamp.com/album/telenights",
-      "art": "https://f4.bcbits.com/img/a1289916539_7.jpg",
+      "id": 139,
+      "artist": "GOLDEN LIVING ROOM",
+      "album": "Post-Internet",
+      "url": "https://phinery.bandcamp.com/album/post-internet",
+      "art": "https://f4.bcbits.com/img/a1288323842_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 52
+    },
+    {
+      "id": 140,
+      "artist": "GOLDEN LIVING ROOM & t e l e p a t h テレパシー能力者",
+      "album": "ＶＩＲＴＵＡＬ ＰＨＡＮＴＡＳＹ ２０９７",
+      "url": "https://dreamcatalogue.bandcamp.com/album/--21",
+      "art": "https://f4.bcbits.com/img/a2043666294_7.jpg",
+      "tags": [
+        "ambient"
+      ],
+      "fans": 78
+    },
+    {
+      "id": 141,
+      "artist": "GOLF SWINGERS",
+      "album": "Buildings Dreams",
+      "url": "https://golfswingers.bandcamp.com/album/buildings-dreams",
+      "art": "https://f4.bcbits.com/img/a1595971285_7.jpg",
       "tags": [
         "vaporwave"
       ],
-      "fans": 44
-    },
-    {
-      "id": 130,
-      "artist": "ＧＡＭＥＳＨＡＲＫ™",
-      "album": "SHARK 2 パラサイトシングル",
-      "url": "https://midnightmoontapes.bandcamp.com/album/shark-2",
-      "art": "https://f4.bcbits.com/img/a1865089103_7.jpg",
-      "tags": [
-        "experimental"
-      ],
-      "fans": 23
+      "fans": 0
     },
     {
       "id": 131,
@@ -1485,18 +1287,7 @@
       "url": "http://music.georgeclanton.com/album/100-electronica",
       "art": "https://f4.bcbits.com/img/a1506352382_7.jpg",
       "tags": [
-        "experimental"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 136,
-      "artist": "Giant Claw",
-      "album": "DARK WEB",
-      "url": "https://giantclaw.bandcamp.com/album/dark-web",
-      "art": "https://f4.bcbits.com/img/a1885621748_7.jpg",
-      "tags": [
-        "vaportrap"
+        "post-vapor"
       ],
       "fans": 80
     },
@@ -1512,48 +1303,15 @@
       "fans": 80
     },
     {
-      "id": 138,
-      "artist": "GOLDEN LIVING ROOM",
-      "album": "New Nostalgia",
-      "url": "https://fortune500.bandcamp.com/album/new-nostalgia",
-      "art": "https://f4.bcbits.com/img/a1674998564_7.jpg",
+      "id": 136,
+      "artist": "Giant Claw",
+      "album": "DARK WEB",
+      "url": "https://giantclaw.bandcamp.com/album/dark-web",
+      "art": "https://f4.bcbits.com/img/a1885621748_7.jpg",
       "tags": [
-        "vaporwave"
+        "vaportrap"
       ],
-      "fans": 1
-    },
-    {
-      "id": 139,
-      "artist": "GOLDEN LIVING ROOM",
-      "album": "Post-Internet",
-      "url": "https://phinery.bandcamp.com/album/post-internet",
-      "art": "https://f4.bcbits.com/img/a1288323842_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 52
-    },
-    {
-      "id": 140,
-      "artist": "GOLDEN LIVING ROOM & t e l e p a t h テレパシー能力者",
-      "album": "ＶＩＲＴＵＡＬ ＰＨＡＮＴＡＳＹ ２０９７",
-      "url": "https://dreamcatalogue.bandcamp.com/album/--21",
-      "art": "https://f4.bcbits.com/img/a2043666294_7.jpg",
-      "tags": [
-        "ambient"
-      ],
-      "fans": 78
-    },
-    {
-      "id": 141,
-      "artist": "GOLF SWINGERS",
-      "album": "Buildings Dreams",
-      "url": "https://golfswingers.bandcamp.com/album/buildings-dreams",
-      "art": "https://f4.bcbits.com/img/a1595971285_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 0
+      "fans": 80
     },
     {
       "id": 142,
@@ -1567,24 +1325,13 @@
       "fans": 1
     },
     {
-      "id": 143,
-      "artist": "haircuts for men",
-      "album": "パステル勾配 lp",
-      "url": "https://commercialdreamsltd.bandcamp.com/album/lp",
-      "art": "https://f4.bcbits.com/img/a1843361317_7.jpg",
+      "id": 152,
+      "artist": "HKE & t e l e p a t h テレパシー能力者",
+      "album": "Gateway アセンション",
+      "url": "https://barorecords.bandcamp.com/album/gateway",
+      "art": "https://f4.bcbits.com/img/a1476623810_7.jpg",
       "tags": [
-        "experimental"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 144,
-      "artist": "haircuts for men",
-      "album": "大理石のファンタジー",
-      "url": "http://music.businesscasual.biz/album/--12",
-      "art": "https://f4.bcbits.com/img/a1379942324_7.jpg",
-      "tags": [
-        "vaporwave"
+        "ambient"
       ],
       "fans": 80
     },
@@ -1666,17 +1413,6 @@
       "fans": 53
     },
     {
-      "id": 152,
-      "artist": "HKE & t e l e p a t h テレパシー能力者",
-      "album": "Gateway アセンション",
-      "url": "https://barorecords.bandcamp.com/album/gateway",
-      "art": "https://f4.bcbits.com/img/a1476623810_7.jpg",
-      "tags": [
-        "ambient"
-      ],
-      "fans": 80
-    },
-    {
       "id": 153,
       "artist": "Hong Kong Express",
       "album": "2047",
@@ -1700,6 +1436,17 @@
       "fans": 80
     },
     {
+      "id": 403,
+      "artist": "Hong Kong Express",
+      "album": "浪漫的夢想",
+      "url": "https://www.youtube.com/watch?v=mO1_dAAu-p0",
+      "art": "",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 0
+    },
+    {
       "id": 155,
       "artist": "Hong Kong Express",
       "album": "This",
@@ -1711,13 +1458,13 @@
       "fans": 80
     },
     {
-      "id": 156,
-      "artist": "ℍUM♥ℕIGHTM♥RE",
-      "album": "♥",
-      "url": "https://humanightmare.bandcamp.com/album/-",
-      "art": "https://f4.bcbits.com/img/a1802256755_7.jpg",
+      "id": 394,
+      "artist": "HyperGanesh",
+      "album": "Stay Awake",
+      "url": "https://www.youtube.com/watch?v=8A690h274Eg",
+      "art": "",
       "tags": [
-        "vaportrap"
+        "hypnagogic"
       ],
       "fans": 0
     },
@@ -1731,6 +1478,17 @@
         "vaporwave"
       ],
       "fans": 80
+    },
+    {
+      "id": 404,
+      "artist": "Immune",
+      "album": "Breathless",
+      "url": "https://www.youtube.com/watch?v=pwR4-WtzJ0A",
+      "art": "",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 0
     },
     {
       "id": 158,
@@ -1755,11 +1513,11 @@
       "fans": 0
     },
     {
-      "id": 160,
+      "id": 165,
       "artist": "Infinity Frequencies",
-      "album": "Closer than ever",
-      "url": "https://computer-gaze.bandcamp.com/album/closer-than-ever",
-      "art": "https://f4.bcbits.com/img/a0282486614_7.jpg",
+      "album": "Euphoria",
+      "url": "https://computer-gaze.bandcamp.com/album/euphoria",
+      "art": "https://f4.bcbits.com/img/a0190485261_7.jpg",
       "tags": [
         "vaporwave"
       ],
@@ -1799,33 +1557,33 @@
       "fans": 80
     },
     {
-      "id": 164,
-      "artist": "Infinity Frequencies",
-      "album": "Dream Recovery",
-      "url": "https://computer-gaze.bandcamp.com/album/dream-recovery",
-      "art": "https://f4.bcbits.com/img/a2767600637_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 165,
-      "artist": "Infinity Frequencies",
-      "album": "Euphoria",
-      "url": "https://computer-gaze.bandcamp.com/album/euphoria",
-      "art": "https://f4.bcbits.com/img/a0190485261_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 80
-    },
-    {
       "id": 166,
       "artist": "Infinity Frequencies",
       "album": "Into the light",
       "url": "https://computer-gaze.bandcamp.com/album/into-the-light",
       "art": "https://f4.bcbits.com/img/a0947550473_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 160,
+      "artist": "Infinity Frequencies",
+      "album": "Closer than ever",
+      "url": "https://computer-gaze.bandcamp.com/album/closer-than-ever",
+      "art": "https://f4.bcbits.com/img/a0282486614_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 164,
+      "artist": "Infinity Frequencies",
+      "album": "Dream Recovery",
+      "url": "https://computer-gaze.bandcamp.com/album/dream-recovery",
+      "art": "https://f4.bcbits.com/img/a2767600637_7.jpg",
       "tags": [
         "vaporwave"
       ],
@@ -1865,17 +1623,6 @@
       "fans": 80
     },
     {
-      "id": 170,
-      "artist": "Internet Club",
-      "album": "Redefining The Workplace",
-      "url": "https://internetclub.bandcamp.com/album/redefining-the-workplace",
-      "art": "https://f4.bcbits.com/img/a2781983496_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 80
-    },
-    {
       "id": 171,
       "artist": "Internet Club",
       "album": "Vanishing Vision",
@@ -1898,6 +1645,17 @@
       "fans": 80
     },
     {
+      "id": 170,
+      "artist": "Internet Club",
+      "album": "Redefining The Workplace",
+      "url": "https://internetclub.bandcamp.com/album/redefining-the-workplace",
+      "art": "https://f4.bcbits.com/img/a2781983496_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 80
+    },
+    {
       "id": 173,
       "artist": "Jade Statues",
       "album": "Executive Towers",
@@ -1907,17 +1665,6 @@
         "hypnagogic"
       ],
       "fans": 80
-    },
-    {
-      "id": 174,
-      "artist": "Ｋ Ｅ Ｎ Ｎ Ｙ ❖ Ｌ Ｏ Ｇ Ｉ Ｎ",
-      "album": "FOOD COURT Ａｆｔｅｒｈｏｕｒｓフードコートの業務時間外",
-      "url": "https://questionrecords.bandcamp.com/album/food-court",
-      "art": "https://f4.bcbits.com/img/a3013923763_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 11
     },
     {
       "id": 175,
@@ -1931,17 +1678,6 @@
       "fans": 1
     },
     {
-      "id": 176,
-      "artist": "KING QUARTZ",
-      "album": "\\​$​Recycle​.​Bin",
-      "url": "https://4lrecords.bandcamp.com/album/recycle-bin",
-      "art": "https://f4.bcbits.com/img/a2552592504_7.jpg",
-      "tags": [
-        "vaportrap"
-      ],
-      "fans": 30
-    },
-    {
       "id": 177,
       "artist": "KING QUARTZ",
       "album": "NEOTOKYOLIVE30XX",
@@ -1951,6 +1687,17 @@
         "future-funk"
       ],
       "fans": 80
+    },
+    {
+      "id": 176,
+      "artist": "KING QUARTZ",
+      "album": "\\​$​Recycle​.​Bin",
+      "url": "https://4lrecords.bandcamp.com/album/recycle-bin",
+      "art": "https://f4.bcbits.com/img/a2552592504_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 30
     },
     {
       "id": 178,
@@ -1986,17 +1733,6 @@
       "fans": 1
     },
     {
-      "id": 181,
-      "artist": "Köshrimp",
-      "album": "Red Luna District",
-      "url": "https://drugrunrecords.bandcamp.com/album/red-luna-district",
-      "art": "https://f4.bcbits.com/img/a1883448568_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 5
-    },
-    {
       "id": 182,
       "artist": "Krokodil Hunter",
       "album": "кримінальну Господь",
@@ -2008,26 +1744,15 @@
       "fans": 71
     },
     {
-      "id": 183,
-      "artist": "kyonpalm",
-      "album": "Process",
-      "url": "https://kyonpalm.bandcamp.com/album/process",
-      "art": "https://f4.bcbits.com/img/a3896717455_7.jpg",
+      "id": 181,
+      "artist": "Köshrimp",
+      "album": "Red Luna District",
+      "url": "https://drugrunrecords.bandcamp.com/album/red-luna-district",
+      "art": "https://f4.bcbits.com/img/a1883448568_7.jpg",
       "tags": [
-        "vaportrap"
+        "vaporwave"
       ],
-      "fans": 3
-    },
-    {
-      "id": 184,
-      "artist": "la trace",
-      "album": "LITE TOUCH",
-      "url": "https://latracechicago.bandcamp.com/album/lite-touch",
-      "art": "https://f4.bcbits.com/img/a2431923426_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 4
+      "fans": 5
     },
     {
       "id": 185,
@@ -2118,11 +1843,33 @@
       "fans": 18
     },
     {
+      "id": 197,
+      "artist": "Luxury Elite",
+      "album": "world class",
+      "url": "https://crashsymbols.bandcamp.com/album/world-class",
+      "art": "https://f4.bcbits.com/img/a2298966900_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 80
+    },
+    {
       "id": 193,
       "artist": "Luxury Elite",
       "album": "101.7 Wave II",
       "url": "https://luxuryelite.bandcamp.com/album/1017-wave-ii",
       "art": "https://f4.bcbits.com/img/a3556448753_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 196,
+      "artist": "Luxury Elite",
+      "album": "noir",
+      "url": "https://luxuryelite.bandcamp.com/album/noir",
+      "art": "https://f4.bcbits.com/img/a4043434006_7.jpg",
       "tags": [
         "hypnagogic"
       ],
@@ -2151,26 +1898,15 @@
       "fans": 64
     },
     {
-      "id": 196,
-      "artist": "Luxury Elite",
-      "album": "noir",
-      "url": "https://luxuryelite.bandcamp.com/album/noir",
-      "art": "https://f4.bcbits.com/img/a4043434006_7.jpg",
+      "id": 199,
+      "artist": "Luxury Elite & SYLLABUS",
+      "album": "Intercontinental",
+      "url": "https://luxuryelite.bandcamp.com/album/intercontinental",
+      "art": "https://f4.bcbits.com/img/a0717622222_7.jpg",
       "tags": [
         "hypnagogic"
       ],
-      "fans": 80
-    },
-    {
-      "id": 197,
-      "artist": "Luxury Elite",
-      "album": "world class",
-      "url": "https://crashsymbols.bandcamp.com/album/world-class",
-      "art": "https://f4.bcbits.com/img/a2298966900_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 80
+      "fans": 7
     },
     {
       "id": 198,
@@ -2184,15 +1920,26 @@
       "fans": 80
     },
     {
-      "id": 199,
-      "artist": "Luxury Elite & SYLLABUS",
-      "album": "Intercontinental",
-      "url": "https://luxuryelite.bandcamp.com/album/intercontinental",
-      "art": "https://f4.bcbits.com/img/a0717622222_7.jpg",
+      "id": 205,
+      "artist": "MEENEEDEESC",
+      "album": "MIRRORCLE",
+      "url": "https://meeneedeesc.bandcamp.com/album/mirrorcle",
+      "art": "https://f4.bcbits.com/img/a1196190361_7.jpg",
       "tags": [
         "hypnagogic"
       ],
-      "fans": 7
+      "fans": 23
+    },
+    {
+      "id": 212,
+      "artist": "MKULTRA",
+      "album": "In Limbo, Silent Dream",
+      "url": "https://dmttapes.bandcamp.com/album/in-limbo-silent-dream-dmt-071",
+      "art": "https://f4.bcbits.com/img/a0079286319_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 80
     },
     {
       "id": 200,
@@ -2217,17 +1964,6 @@
       "fans": 12
     },
     {
-      "id": 202,
-      "artist": "manitee",
-      "album": "marianas trench",
-      "url": "https://manitee.bandcamp.com/album/marianas-trench",
-      "art": "https://f4.bcbits.com/img/a1840533918_7.jpg",
-      "tags": [
-        "vaportrap"
-      ],
-      "fans": 14
-    },
-    {
       "id": 203,
       "artist": "Max Headroom",
       "album": "Hanami",
@@ -2250,17 +1986,6 @@
       "fans": 80
     },
     {
-      "id": 205,
-      "artist": "MEENEEDEESC",
-      "album": "MIRRORCLE",
-      "url": "https://meeneedeesc.bandcamp.com/album/mirrorcle",
-      "art": "https://f4.bcbits.com/img/a1196190361_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 23
-    },
-    {
       "id": 206,
       "artist": "Memorex Dawn",
       "album": "Galleria",
@@ -2272,17 +1997,6 @@
       "fans": 80
     },
     {
-      "id": 207,
-      "artist": "Miami Vice",
-      "album": "CULTURE ISLAND",
-      "url": "https://miamivice.bandcamp.com/album/culture-island",
-      "art": "https://f4.bcbits.com/img/a3277406112_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 66
-    },
-    {
       "id": 208,
       "artist": "Miami Vice",
       "album": "Palm Haze",
@@ -2292,6 +2006,17 @@
         "hypnagogic"
       ],
       "fans": 31
+    },
+    {
+      "id": 207,
+      "artist": "Miami Vice",
+      "album": "CULTURE ISLAND",
+      "url": "https://miamivice.bandcamp.com/album/culture-island",
+      "art": "https://f4.bcbits.com/img/a3277406112_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 66
     },
     {
       "id": 209,
@@ -2327,17 +2052,6 @@
       "fans": 8
     },
     {
-      "id": 212,
-      "artist": "MKULTRA",
-      "album": "In Limbo, Silent Dream",
-      "url": "https://dmttapes.bandcamp.com/album/in-limbo-silent-dream-dmt-071",
-      "art": "https://f4.bcbits.com/img/a0079286319_7.jpg",
-      "tags": [
-        "vaportrap"
-      ],
-      "fans": 80
-    },
-    {
       "id": 213,
       "artist": "Moe Shop",
       "album": "Pure Pure",
@@ -2349,50 +2063,6 @@
       "fans": 80
     },
     {
-      "id": 214,
-      "artist": "Nadya Draghici",
-      "album": "București 2084",
-      "url": "https://antifur.bandcamp.com/album/bucures-ti-2084",
-      "art": "https://f4.bcbits.com/img/a3053066975_7.jpg",
-      "tags": [
-        "hardvapor"
-      ],
-      "fans": 67
-    },
-    {
-      "id": 215,
-      "artist": "nano神社 (✪㉨✪)",
-      "album": "SEGAS",
-      "url": "https://nanoshrine.bandcamp.com/album/segas-superdeluxeedition",
-      "art": "https://f4.bcbits.com/img/a1148176716_7.jpg",
-      "tags": [
-        "future-funk"
-      ],
-      "fans": 16
-    },
-    {
-      "id": 216,
-      "artist": "nano神社 (✪㉨✪)",
-      "album": "SEGAS II",
-      "url": "https://nanoshrine.bandcamp.com/album/segas-ii-2",
-      "art": "https://f4.bcbits.com/img/a3244981099_7.jpg",
-      "tags": [
-        "future-funk"
-      ],
-      "fans": 5
-    },
-    {
-      "id": 217,
-      "artist": "nano神社 (✪㉨✪)",
-      "album": "SEGAS III",
-      "url": "http://dmtrec.bandcamp.com/album/segas-iii",
-      "art": "https://f4.bcbits.com/img/a0447316203_7.jpg",
-      "tags": [
-        "future-funk"
-      ],
-      "fans": 40
-    },
-    {
       "id": 218,
       "artist": "NAPOLIAN / COMPUTER DREAMS",
       "album": "NAPOLIAN / COMPUTER DREAMS",
@@ -2402,6 +2072,17 @@
         "vaporwave"
       ],
       "fans": 48
+    },
+    {
+      "id": 214,
+      "artist": "Nadya Draghici",
+      "album": "București 2084",
+      "url": "https://antifur.bandcamp.com/album/bucures-ti-2084",
+      "art": "https://f4.bcbits.com/img/a3053066975_7.jpg",
+      "tags": [
+        "hardvapor"
+      ],
+      "fans": 67
     },
     {
       "id": 219,
@@ -2426,22 +2107,22 @@
       "fans": 35
     },
     {
-      "id": 221,
+      "id": 222,
       "artist": "New Dreams Ltd.",
-      "album": "Initiation Tape (Isle of Avalon Edition)",
-      "url": "https://vektroid.bandcamp.com/album/initiation-tape-isle-of-avalon-edition",
-      "art": "https://f4.bcbits.com/img/a2732943328_7.jpg",
+      "album": "Sleepline",
+      "url": "https://vektroid.bandcamp.com/album/sleepline",
+      "art": "https://f4.bcbits.com/img/a4188629452_7.jpg",
       "tags": [
         "vaporwave"
       ],
       "fans": 80
     },
     {
-      "id": 222,
+      "id": 221,
       "artist": "New Dreams Ltd.",
-      "album": "Sleepline",
-      "url": "https://vektroid.bandcamp.com/album/sleepline",
-      "art": "https://f4.bcbits.com/img/a4188629452_7.jpg",
+      "album": "Initiation Tape (Isle of Avalon Edition)",
+      "url": "https://vektroid.bandcamp.com/album/initiation-tape-isle-of-avalon-edition",
+      "art": "https://f4.bcbits.com/img/a2732943328_7.jpg",
       "tags": [
         "vaporwave"
       ],
@@ -2457,6 +2138,17 @@
         "future-funk"
       ],
       "fans": 80
+    },
+    {
+      "id": 226,
+      "artist": "Nmesh",
+      "album": "Nu.wav Hallucinations",
+      "url": "https://nmesh.bandcamp.com/album/nu-wav-hallucinations",
+      "art": "https://f4.bcbits.com/img/a2068518199_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 0
     },
     {
       "id": 224,
@@ -2479,17 +2171,6 @@
         "hardvapor"
       ],
       "fans": 11
-    },
-    {
-      "id": 226,
-      "artist": "Nmesh",
-      "album": "Nu.wav Hallucinations",
-      "url": "https://nmesh.bandcamp.com/album/nu-wav-hallucinations",
-      "art": "https://f4.bcbits.com/img/a2068518199_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 0
     },
     {
       "id": 227,
@@ -2570,6 +2251,17 @@
       "fans": 67
     },
     {
+      "id": 392,
+      "artist": "Oneohtrix Point Never",
+      "album": "R Plus Seven",
+      "url": "https://www.youtube.com/watch?v=_7Rhcvq5owE",
+      "art": "",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 0
+    },
+    {
       "id": 234,
       "artist": "Oscob x Digital Sex",
       "album": "Overgrowth",
@@ -2579,17 +2271,6 @@
         "vaporwave"
       ],
       "fans": 67
-    },
-    {
-      "id": 235,
-      "artist": "Pagan Digital",
-      "album": "VIRTUAL AIRLINES",
-      "url": "https://pagandigital.bandcamp.com/album/virtual-airlines",
-      "art": "https://f4.bcbits.com/img/a0215052781_7.jpg",
-      "tags": [
-        "experimental"
-      ],
-      "fans": 0
     },
     {
       "id": 236,
@@ -2603,6 +2284,39 @@
       "fans": 21
     },
     {
+      "id": 247,
+      "artist": "PZA",
+      "album": "CAPITAL CUSTOMER",
+      "url": "http://music.businesscasual.biz/album/capital-customer",
+      "art": "https://f4.bcbits.com/img/a2200947702_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 235,
+      "artist": "Pagan Digital",
+      "album": "VIRTUAL AIRLINES",
+      "url": "https://pagandigital.bandcamp.com/album/virtual-airlines",
+      "art": "https://f4.bcbits.com/img/a0215052781_7.jpg",
+      "tags": [
+        "experimental"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 395,
+      "artist": "Penthouse Apartment",
+      "album": "Pirlo",
+      "url": "https://www.youtube.com/watch?v=9qxsSacYjlA",
+      "art": "",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 0
+    },
+    {
       "id": 237,
       "artist": "Penthouse Apartment",
       "album": "Y2K: New Millenium Nightclub",
@@ -2614,15 +2328,27 @@
       "fans": 9
     },
     {
-      "id": 238,
+      "id": 240,
       "artist": "Phoenix #2772",
-      "album": "ＰＡＬＭ ＩＳＬＡＮＤＳ",
-      "url": "https://elemental95.bandcamp.com/album/-",
-      "art": "https://f4.bcbits.com/img/a3953788246_7.jpg",
+      "album": "You Are Already Dead",
+      "url": "https://phoenix2772.bandcamp.com/album/you-are-already-dead",
+      "art": "https://f4.bcbits.com/img/a0642029519_7.jpg",
       "tags": [
-        "vaporwave"
+        "vaporwave",
+        "hypnagogic"
       ],
-      "fans": 80
+      "fans": 62
+    },
+    {
+      "id": 413,
+      "artist": "Phoenix #2772",
+      "album": "The Dream Catalogue",
+      "url": "https://www.youtube.com/watch?v=XpIg05jLgD8",
+      "art": "",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 0
     },
     {
       "id": 239,
@@ -2636,16 +2362,15 @@
       "fans": 80
     },
     {
-      "id": 240,
+      "id": 238,
       "artist": "Phoenix #2772",
-      "album": "You Are Already Dead",
-      "url": "https://phoenix2772.bandcamp.com/album/you-are-already-dead",
-      "art": "https://f4.bcbits.com/img/a0642029519_7.jpg",
+      "album": "ＰＡＬＭ ＩＳＬＡＮＤＳ",
+      "url": "https://elemental95.bandcamp.com/album/-",
+      "art": "https://f4.bcbits.com/img/a3953788246_7.jpg",
       "tags": [
-        "vaporwave",
-        "hypnagogic"
+        "vaporwave"
       ],
-      "fans": 62
+      "fans": 80
     },
     {
       "id": 241,
@@ -2709,18 +2434,7 @@
       "url": "https://bedlamtapes.bandcamp.com/album/adult-contemporary-novel",
       "art": "https://f4.bcbits.com/img/a0992389083_7.jpg",
       "tags": [
-        "experimental"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 247,
-      "artist": "PZA",
-      "album": "CAPITAL CUSTOMER",
-      "url": "http://music.businesscasual.biz/album/capital-customer",
-      "art": "https://f4.bcbits.com/img/a2200947702_7.jpg",
-      "tags": [
-        "vaportrap"
+        "post-vapor"
       ],
       "fans": 80
     },
@@ -2802,22 +2516,66 @@
       "fans": 80
     },
     {
-      "id": 255,
-      "artist": "s a k i 夢",
-      "album": "夢の中で失われました",
-      "url": "https://sakidream.bandcamp.com/album/-",
-      "art": "https://f4.bcbits.com/img/a0258481532_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 28
-    },
-    {
       "id": 256,
       "artist": "S U R F I N G",
       "album": "Deep Fantasy",
       "url": "http://surfing.100percentelectronica.com/album/deep-fantasy",
       "art": "https://f4.bcbits.com/img/a0414512508_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 262,
+      "artist": "SEPHORA脳バイブス",
+      "album": "HOTEL GALANTHUS",
+      "url": "https://sephorabrainvibes.bandcamp.com/album/hotel-galanthus",
+      "art": "https://f4.bcbits.com/img/a1772327502_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 11
+    },
+    {
+      "id": 263,
+      "artist": "SEPHORA脳バイブス",
+      "album": "ギリシア彫刻の水中MUSEUM",
+      "url": "https://ailanthusrecordings.bandcamp.com/album/museum",
+      "art": "https://f4.bcbits.com/img/a1065644354_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 6
+    },
+    {
+      "id": 270,
+      "artist": "STΛQQ ƟVERFLƟ",
+      "album": "SΛCRED GRƟVE ƟNLINE",
+      "url": "https://ailanthusrecordings.bandcamp.com/album/s-cred-gr-ve-nline",
+      "art": "https://f4.bcbits.com/img/a3096228157_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 17
+    },
+    {
+      "id": 275,
+      "artist": "SYLLABUS",
+      "album": "/",
+      "url": "https://illuminatedpaths.bandcamp.com/album/--3",
+      "art": "https://f4.bcbits.com/img/a3017287301_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 32
+    },
+    {
+      "id": 276,
+      "artist": "SYLLABUS",
+      "album": "July",
+      "url": "http://music.businesscasual.biz/album/july",
+      "art": "https://f4.bcbits.com/img/a3452926768_7.jpg",
       "tags": [
         "hypnagogic"
       ],
@@ -2846,22 +2604,22 @@
       "fans": 80
     },
     {
-      "id": 259,
+      "id": 260,
       "artist": "Saint Pepsi",
-      "album": "New Generation",
-      "url": "https://saintpepsi.bandcamp.com/album/new-generation",
-      "art": "https://f4.bcbits.com/img/a2460113939_7.jpg",
+      "album": "WORLD TOUR",
+      "url": "https://saintpepsi.bandcamp.com/album/world-tour",
+      "art": "https://f4.bcbits.com/img/a4146900305_7.jpg",
       "tags": [
         "hypnagogic"
       ],
       "fans": 80
     },
     {
-      "id": 260,
+      "id": 259,
       "artist": "Saint Pepsi",
-      "album": "WORLD TOUR",
-      "url": "https://saintpepsi.bandcamp.com/album/world-tour",
-      "art": "https://f4.bcbits.com/img/a4146900305_7.jpg",
+      "album": "New Generation",
+      "url": "https://saintpepsi.bandcamp.com/album/new-generation",
+      "art": "https://f4.bcbits.com/img/a2460113939_7.jpg",
       "tags": [
         "hypnagogic"
       ],
@@ -2877,28 +2635,6 @@
         "hardvapor"
       ],
       "fans": 17
-    },
-    {
-      "id": 262,
-      "artist": "SEPHORA脳バイブス",
-      "album": "HOTEL GALANTHUS",
-      "url": "https://sephorabrainvibes.bandcamp.com/album/hotel-galanthus",
-      "art": "https://f4.bcbits.com/img/a1772327502_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 11
-    },
-    {
-      "id": 263,
-      "artist": "SEPHORA脳バイブス",
-      "album": "ギリシア彫刻の水中MUSEUM",
-      "url": "https://ailanthusrecordings.bandcamp.com/album/museum",
-      "art": "https://f4.bcbits.com/img/a1065644354_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 6
     },
     {
       "id": 264,
@@ -2967,17 +2703,6 @@
       "fans": 11
     },
     {
-      "id": 270,
-      "artist": "STΛQQ ƟVERFLƟ",
-      "album": "SΛCRED GRƟVE ƟNLINE",
-      "url": "https://ailanthusrecordings.bandcamp.com/album/s-cred-gr-ve-nline",
-      "art": "https://f4.bcbits.com/img/a3096228157_7.jpg",
-      "tags": [
-        "vaportrap"
-      ],
-      "fans": 17
-    },
-    {
       "id": 271,
       "artist": "Subaeris",
       "album": "New Tokyo Blue Mood",
@@ -3022,116 +2747,6 @@
       "fans": 69
     },
     {
-      "id": 275,
-      "artist": "SYLLABUS",
-      "album": "/",
-      "url": "https://illuminatedpaths.bandcamp.com/album/--3",
-      "art": "https://f4.bcbits.com/img/a3017287301_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 32
-    },
-    {
-      "id": 276,
-      "artist": "SYLLABUS",
-      "album": "July",
-      "url": "http://music.businesscasual.biz/album/july",
-      "art": "https://f4.bcbits.com/img/a3452926768_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 277,
-      "artist": "t e l e p a t h テレパシー能力者",
-      "album": "アンタラ通信",
-      "url": "https://dreamcatalogue.bandcamp.com/album/--19",
-      "art": "https://f4.bcbits.com/img/a2437765163_7.jpg",
-      "tags": [
-        "ambient"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 278,
-      "artist": "t e l e p a t h テレパシー能力者",
-      "album": "一緒に別の夜",
-      "url": "https://dreamcatalogue.bandcamp.com/album/--25",
-      "art": "https://f4.bcbits.com/img/a2447787189_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 279,
-      "artist": "t e l e p a t h テレパシー能力者",
-      "album": "断線",
-      "url": "https://telepathtelepath.bandcamp.com/album/--33",
-      "art": "https://f4.bcbits.com/img/a4053694378_7.jpg",
-      "tags": [
-        "ambient"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 280,
-      "artist": "t e l e p a t h テレパシー能力者",
-      "album": "星間性交",
-      "url": "https://telepathtelepath.bandcamp.com/album/--40",
-      "art": "https://f4.bcbits.com/img/a1318949488_7.jpg",
-      "tags": [
-        "ambient"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 281,
-      "artist": "t e l e p a t h テレパシー能力者",
-      "album": "未来へ",
-      "url": "https://telepathtelepath.bandcamp.com/album/--5",
-      "art": "https://f4.bcbits.com/img/a2644196199_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 282,
-      "artist": "t e l e p a t h テレパシー能力者",
-      "album": "現実を超えて",
-      "url": "https://telepathtelepath.bandcamp.com/album/--12",
-      "art": "https://f4.bcbits.com/img/a3616147813_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 283,
-      "artist": "t e l e p a t h テレパシー能力者 & 猫 シ Corp.",
-      "album": "テレパシーの",
-      "url": "https://telepathtelepath.bandcamp.com/album/--10",
-      "art": "https://f4.bcbits.com/img/a2369691167_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 0
-    },
-    {
-      "id": 284,
-      "artist": "Tahiti Intranet",
-      "album": "10Mbps",
-      "url": "https://adhesivesounds.bandcamp.com/album/10mbps",
-      "art": "https://f4.bcbits.com/img/a1973667590_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 34
-    },
-    {
       "id": 285,
       "artist": "TANE IS LOVE",
       "album": "Gelhash",
@@ -3154,16 +2769,48 @@
       "fans": 62
     },
     {
-      "id": 287,
-      "artist": "tech noir",
-      "album": "齐",
-      "url": "https://elemental95.bandcamp.com/album/--2",
-      "art": "https://f4.bcbits.com/img/a4025469776_7.jpg",
+      "id": 289,
+      "artist": "TELOZKOPE",
+      "album": "Equanaimo",
+      "url": "https://spectralblissonance.bandcamp.com/album/equanaimo",
+      "art": "https://f4.bcbits.com/img/a1778561117_7.jpg",
       "tags": [
-        "ambient",
-        "hypnagogic"
+        "vaportrap"
       ],
-      "fans": 80
+      "fans": 19
+    },
+    {
+      "id": 291,
+      "artist": "THE DARKEST FUTURE",
+      "album": "???????",
+      "url": "https://tkxvault.bandcamp.com/album/--5",
+      "art": "https://f4.bcbits.com/img/a2957841808_7.jpg",
+      "tags": [
+        "experimental"
+      ],
+      "fans": 14
+    },
+    {
+      "id": 299,
+      "artist": "TRIAD RESEARCH LABORATORIES",
+      "album": "CREATING YOUR WORLD",
+      "url": "https://dreamcatalogue.bandcamp.com/album/creating-your-world",
+      "art": "https://f4.bcbits.com/img/a1840269795_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 10
+    },
+    {
+      "id": 284,
+      "artist": "Tahiti Intranet",
+      "album": "10Mbps",
+      "url": "https://adhesivesounds.bandcamp.com/album/10mbps",
+      "art": "https://f4.bcbits.com/img/a1973667590_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 34
     },
     {
       "id": 288,
@@ -3177,17 +2824,6 @@
       "fans": 8
     },
     {
-      "id": 289,
-      "artist": "TELOZKOPE",
-      "album": "Equanaimo",
-      "url": "https://spectralblissonance.bandcamp.com/album/equanaimo",
-      "art": "https://f4.bcbits.com/img/a1778561117_7.jpg",
-      "tags": [
-        "vaportrap"
-      ],
-      "fans": 19
-    },
-    {
       "id": 290,
       "artist": "Tendencies",
       "album": "Reach",
@@ -3197,17 +2833,6 @@
         "future-funk"
       ],
       "fans": 30
-    },
-    {
-      "id": 291,
-      "artist": "THE DARKEST FUTURE",
-      "album": "???????",
-      "url": "https://tkxvault.bandcamp.com/album/--5",
-      "art": "https://f4.bcbits.com/img/a2957841808_7.jpg",
-      "tags": [
-        "experimental"
-      ],
-      "fans": 14
     },
     {
       "id": 292,
@@ -3287,17 +2912,6 @@
       "fans": 44
     },
     {
-      "id": 299,
-      "artist": "TRIAD RESEARCH LABORATORIES",
-      "album": "CREATING YOUR WORLD",
-      "url": "https://dreamcatalogue.bandcamp.com/album/creating-your-world",
-      "art": "https://f4.bcbits.com/img/a1840269795_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 10
-    },
-    {
       "id": 300,
       "artist": "ULTRA",
       "album": "CYBERNET UTOPIA",
@@ -3331,22 +2945,22 @@
       "fans": 8
     },
     {
-      "id": 303,
-      "artist": "Under Two Palms",
-      "album": "Under Two Palms",
-      "url": "https://dmttapes.bandcamp.com/album/under-two-palms-dmt-119",
-      "art": "https://f4.bcbits.com/img/a3399162271_7.jpg",
+      "id": 304,
+      "artist": "US Golf 95",
+      "album": "US Golf 95",
+      "url": "https://usgolf95.bandcamp.com/album/us-golf-95",
+      "art": "https://f4.bcbits.com/img/a0522430626_7.jpg",
       "tags": [
         "vaporwave"
       ],
       "fans": 80
     },
     {
-      "id": 304,
-      "artist": "US Golf 95",
-      "album": "US Golf 95",
-      "url": "https://usgolf95.bandcamp.com/album/us-golf-95",
-      "art": "https://f4.bcbits.com/img/a0522430626_7.jpg",
+      "id": 303,
+      "artist": "Under Two Palms",
+      "album": "Under Two Palms",
+      "url": "https://dmttapes.bandcamp.com/album/under-two-palms-dmt-119",
+      "art": "https://f4.bcbits.com/img/a3399162271_7.jpg",
       "tags": [
         "vaporwave"
       ],
@@ -3364,24 +2978,13 @@
       "fans": 72
     },
     {
-      "id": 306,
-      "artist": "Vaperror",
-      "album": "Mana Pool",
-      "url": "https://dreamcatalogue.bandcamp.com/album/mana-pool",
-      "art": "https://f4.bcbits.com/img/a3830061638_7.jpg",
-      "tags": [
-        "vaportrap"
-      ],
-      "fans": 80
-    },
-    {
       "id": 307,
       "artist": "VAPERROR",
       "album": "POLYCHROMATIC COMPILER",
       "url": "https://dreamcatalogue.bandcamp.com/album/polychromatic-compiler",
       "art": "https://f4.bcbits.com/img/a1324811117_7.jpg",
       "tags": [
-        "experimental"
+        "post-vapor"
       ],
       "fans": 80
     },
@@ -3397,17 +3000,6 @@
       "fans": 39
     },
     {
-      "id": 309,
-      "artist": "VECTOR GRAPHICS",
-      "album": "DESTINE",
-      "url": "https://vectorgraphics.bandcamp.com/album/destine",
-      "art": "https://f4.bcbits.com/img/a3358936743_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 80
-    },
-    {
       "id": 310,
       "artist": "VECTOR GRAPHICS",
       "album": "MIDNIGHT LOVE",
@@ -3419,6 +3011,17 @@
       "fans": 47
     },
     {
+      "id": 309,
+      "artist": "VECTOR GRAPHICS",
+      "album": "DESTINE",
+      "url": "https://vectorgraphics.bandcamp.com/album/destine",
+      "art": "https://f4.bcbits.com/img/a3358936743_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 80
+    },
+    {
       "id": 311,
       "artist": "VECTOR GRAPHICS",
       "album": "SCREEN SERVICE",
@@ -3428,28 +3031,6 @@
         "hypnagogic"
       ],
       "fans": 48
-    },
-    {
-      "id": 312,
-      "artist": "Vektroid",
-      "album": "Color Ocean Road",
-      "url": "https://vektroid.bandcamp.com/album/color-ocean-road",
-      "art": "https://f4.bcbits.com/img/a1613036633_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 313,
-      "artist": "VentureX",
-      "album": "Together",
-      "url": "https://stratfordct.bandcamp.com/album/venturex-together",
-      "art": "https://f4.bcbits.com/img/a3397542807_7.jpg",
-      "tags": [
-        "future-funk"
-      ],
-      "fans": 73
     },
     {
       "id": 314,
@@ -3485,15 +3066,37 @@
       "fans": 23
     },
     {
-      "id": 317,
-      "artist": "vice*AIRバイス*空気自然の愛",
-      "album": "cyber city dreams サイバーシティーの夢",
-      "url": "http://music.businesscasual.biz/album/cyber-city-dreams",
-      "art": "https://f4.bcbits.com/img/a0114504314_7.jpg",
+      "id": 306,
+      "artist": "Vaperror",
+      "album": "Mana Pool",
+      "url": "https://dreamcatalogue.bandcamp.com/album/mana-pool",
+      "art": "https://f4.bcbits.com/img/a3830061638_7.jpg",
       "tags": [
-        "hypnagogic"
+        "vaportrap"
       ],
       "fans": 80
+    },
+    {
+      "id": 312,
+      "artist": "Vektroid",
+      "album": "Color Ocean Road",
+      "url": "https://vektroid.bandcamp.com/album/color-ocean-road",
+      "art": "https://f4.bcbits.com/img/a1613036633_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 313,
+      "artist": "VentureX",
+      "album": "Together",
+      "url": "https://stratfordct.bandcamp.com/album/venturex-together",
+      "art": "https://f4.bcbits.com/img/a3397542807_7.jpg",
+      "tags": [
+        "future-funk"
+      ],
+      "fans": 73
     },
     {
       "id": 318,
@@ -3507,15 +3110,15 @@
       "fans": 9
     },
     {
-      "id": 319,
-      "artist": "Vｉｒｔｕａｌ－ ４２０",
-      "album": "２４０ｐ",
-      "url": "http://music.businesscasual.biz/album/--2",
-      "art": "https://f4.bcbits.com/img/a0561271400_7.jpg",
+      "id": 400,
+      "artist": "Vincent Remember",
+      "album": "The Page Master",
+      "url": "https://www.youtube.com/watch?v=dQjJnGCTf3w",
+      "art": "",
       "tags": [
-        "vaportrap"
+        "hypnagogic"
       ],
-      "fans": 80
+      "fans": 0
     },
     {
       "id": 320,
@@ -3529,26 +3132,15 @@
       "fans": 21
     },
     {
-      "id": 321,
-      "artist": "w u s o 命",
-      "album": "Lonely Streets",
-      "url": "http://crystaltone.bandcamp.com/album/lonely-streets",
-      "art": "https://f4.bcbits.com/img/a1122890737_7.jpg",
+      "id": 319,
+      "artist": "Vｉｒｔｕａｌ－ ４２０",
+      "album": "２４０ｐ",
+      "url": "http://music.businesscasual.biz/album/--2",
+      "art": "https://f4.bcbits.com/img/a0561271400_7.jpg",
       "tags": [
-        "hypnagogic"
+        "vaportrap"
       ],
-      "fans": 14
-    },
-    {
-      "id": 322,
-      "artist": "wakesleep",
-      "album": "Three Thousand Flora",
-      "url": "https://afternoonsmodeling.bandcamp.com/album/three-thousand-flora",
-      "art": "https://f4.bcbits.com/img/a1708093616_7.jpg",
-      "tags": [
-        "experimental"
-      ],
-      "fans": 42
+      "fans": 80
     },
     {
       "id": 323,
@@ -3562,48 +3154,26 @@
       "fans": 6
     },
     {
-      "id": 324,
-      "artist": "waterfront dining",
-      "album": "Sprung 夢中",
-      "url": "https://waterfrontdining.bandcamp.com/album/sprung",
-      "art": "https://f4.bcbits.com/img/a3272215548_7.jpg",
+      "id": 333,
+      "artist": "WTF.FM",
+      "album": "V I S I O N",
+      "url": "https://wtffm.bandcamp.com/album/v-i-s-i-o-n",
+      "art": "https://f4.bcbits.com/img/a0599877504_7.jpg",
       "tags": [
         "vaporwave"
       ],
-      "fans": 80
+      "fans": 17
     },
     {
-      "id": 325,
-      "artist": "waterfront dining & 猫 シ Corp.",
-      "album": "...With Love 愛を込めて",
-      "url": "https://dmtrec.bandcamp.com/album/with-love",
-      "art": "https://f4.bcbits.com/img/a0125021048_7.jpg",
+      "id": 332,
+      "artist": "WTF.FM",
+      "album": "AUDIO_TS",
+      "url": "https://wtffm.bandcamp.com/album/audio-ts",
+      "art": "https://f4.bcbits.com/img/a3722748520_7.jpg",
       "tags": [
         "vaporwave"
       ],
-      "fans": 65
-    },
-    {
-      "id": 326,
-      "artist": "Ｗｅｓｔｅｒｎ Ｄｉｇｉｔａｌand Digital Sex",
-      "album": "On The Horizon",
-      "url": "https://adhesivesounds.bandcamp.com/album/on-the-horizon-2",
-      "art": "https://f4.bcbits.com/img/a0798040973_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 51
-    },
-    {
-      "id": 327,
-      "artist": "Windows 98の",
-      "album": "The Dream Can't Last Forever Trilogy",
-      "url": "https://bedlamtapes.bandcamp.com/album/the-dream-cant-last-forever-trilogy",
-      "art": "https://f4.bcbits.com/img/a0495422320_7.jpg",
-      "tags": [
-        "vaportrap"
-      ],
-      "fans": 80
+      "fans": 3
     },
     {
       "id": 328,
@@ -3615,6 +3185,17 @@
         "ambient"
       ],
       "fans": 66
+    },
+    {
+      "id": 327,
+      "artist": "Windows 98の",
+      "album": "The Dream Can't Last Forever Trilogy",
+      "url": "https://bedlamtapes.bandcamp.com/album/the-dream-cant-last-forever-trilogy",
+      "art": "https://f4.bcbits.com/img/a0495422320_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 80
     },
     {
       "id": 329,
@@ -3639,39 +3220,6 @@
       "fans": 6
     },
     {
-      "id": 331,
-      "artist": "wosX",
-      "album": "Brasil World Cup 2034",
-      "url": "https://dreamcatalogue.bandcamp.com/album/brasil-world-cup-2034",
-      "art": "https://f4.bcbits.com/img/a1031271826_7.jpg",
-      "tags": [
-        "hardvapor"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 332,
-      "artist": "WTF.FM",
-      "album": "AUDIO_TS",
-      "url": "https://wtffm.bandcamp.com/album/audio-ts",
-      "art": "https://f4.bcbits.com/img/a3722748520_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 3
-    },
-    {
-      "id": 333,
-      "artist": "WTF.FM",
-      "album": "V I S I O N",
-      "url": "https://wtffm.bandcamp.com/album/v-i-s-i-o-n",
-      "art": "https://f4.bcbits.com/img/a0599877504_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 17
-    },
-    {
       "id": 334,
       "artist": "WΔll Flowers",
       "album": "Subliminal Romance",
@@ -3683,17 +3231,6 @@
       "fans": 6
     },
     {
-      "id": 335,
-      "artist": "ᴡ ᴇ в s ɪ ᴛ ᴇ ツ",
-      "album": "child of WebTV",
-      "url": "https://swampcircle.bandcamp.com/album/child-of-webtv-sw-040",
-      "art": "https://f4.bcbits.com/img/a3980661575_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 1
-    },
-    {
       "id": 336,
       "artist": "Y2K",
       "album": "Y2K2",
@@ -3703,6 +3240,28 @@
         "hypnagogic"
       ],
       "fans": 79
+    },
+    {
+      "id": 340,
+      "artist": "YUNG BAE",
+      "album": "Bae",
+      "url": "https://yungbaebae.bandcamp.com/album/bae",
+      "art": "https://f4.bcbits.com/img/a3452860442_7.jpg",
+      "tags": [
+        "future-funk"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 341,
+      "artist": "YUNG BAE",
+      "album": "BAE 2",
+      "url": "https://yungbaebae.bandcamp.com/album/bae-2",
+      "art": "https://f4.bcbits.com/img/a3269410691_7.jpg",
+      "tags": [
+        "future-funk"
+      ],
+      "fans": 80
     },
     {
       "id": 337,
@@ -3738,24 +3297,564 @@
       "fans": 14
     },
     {
-      "id": 340,
-      "artist": "YUNG BAE",
-      "album": "Bae",
-      "url": "https://yungbaebae.bandcamp.com/album/bae",
-      "art": "https://f4.bcbits.com/img/a3452860442_7.jpg",
+      "id": 11,
+      "artist": "` ` ` NEW FIGURE VARIETY",
+      "album": "NEW DESK QUIT CABLE",
+      "url": "https://elemental95.bandcamp.com/album/new-desk-quit-cable",
+      "art": "https://f4.bcbits.com/img/a2076371966_7.jpg",
       "tags": [
-        "future-funk"
+        "vaporwave"
       ],
       "fans": 80
     },
     {
-      "id": 341,
-      "artist": "YUNG BAE",
-      "album": "BAE 2",
-      "url": "https://yungbaebae.bandcamp.com/album/bae-2",
-      "art": "https://f4.bcbits.com/img/a3269410691_7.jpg",
+      "id": 39,
+      "artist": "bbrainz",
+      "album": "internet lust",
+      "url": "https://bbrainz.bandcamp.com/album/internet-lust",
+      "art": "https://f4.bcbits.com/img/a3363395156_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 40,
+      "artist": "bbrainz",
+      "album": "jungle2000",
+      "url": "https://colosseumrecords.bandcamp.com/album/jungle2000",
+      "art": "https://f4.bcbits.com/img/a1722876517_7.jpg",
+      "tags": [
+        "post-vapor"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 41,
+      "artist": "bbrainz",
+      "album": "pizza contigo",
+      "url": "https://bbrainz.bandcamp.com/album/pizza-contigo",
+      "art": "https://f4.bcbits.com/img/a2093905953_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 42,
+      "artist": "be____all",
+      "album": "Light Heart, No Mind",
+      "url": "https://be----all.bandcamp.com/album/light-heart-no-mind-ep",
+      "art": "https://f4.bcbits.com/img/a2334743749_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 48,
+      "artist": "bl00dwave",
+      "album": "ＵＬＴＲＡＤＲＥＡＭ",
+      "url": "https://bl00dwave.bandcamp.com/album/--5",
+      "art": "https://f4.bcbits.com/img/a1425716819_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 46,
+      "artist": "bl00dwave",
+      "album": "NEW VISUALS",
+      "url": "https://bl00dwave.bandcamp.com/album/--3",
+      "art": "https://f4.bcbits.com/img/a2416889753_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 45,
+      "artist": "bl00dwave",
+      "album": "hotel vibes",
+      "url": "http://music.businesscasual.biz/album/hotel-vibes",
+      "art": "https://f4.bcbits.com/img/a0245639087_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 47,
+      "artist": "bl00dwave",
+      "album": "SEA VIBES",
+      "url": "https://bl00dwave.bandcamp.com/album/--4",
+      "art": "https://f4.bcbits.com/img/a2107938279_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 52,
+      "artist": "business casual",
+      "album": "ANNIVERSARY VOL. 2",
+      "url": "http://music.businesscasual.biz/album/anniversary-vol-2",
+      "art": "https://f4.bcbits.com/img/a3816472635_7.jpg",
+      "tags": [
+        "compilation"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 53,
+      "artist": "business casual",
+      "album": "Digital Office One",
+      "url": "http://music.businesscasual.biz/album/digital-office-one",
+      "art": "https://f4.bcbits.com/img/a1672922820_7.jpg",
+      "tags": [
+        "compilation"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 62,
+      "artist": "chris†††",
+      "album": "包容",
+      "url": "https://christtt.bandcamp.com/album/--3",
+      "art": "https://f4.bcbits.com/img/a3870833565_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 3
+    },
+    {
+      "id": 61,
+      "artist": "chris†††",
+      "album": "no lives matter",
+      "url": "https://bedlamtapes.bandcamp.com/album/no-lives-matter",
+      "art": "https://f4.bcbits.com/img/a2406580377_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 69,
+      "artist": "colosseum",
+      "album": "NOW THAT'S WHAT I CALL VAPORWAVE",
+      "url": "https://colosseumrecords.bandcamp.com/album/now-thats-what-i-call-vaporwave",
+      "art": "https://f4.bcbits.com/img/a1764004399_7.jpg",
+      "tags": [
+        "compilation"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 71,
+      "artist": "computer slime",
+      "album": "ミスト",
+      "url": "https://computerslime.bandcamp.com/album/-",
+      "art": "https://f4.bcbits.com/img/a0435449864_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 27
+    },
+    {
+      "id": 92,
+      "artist": "death’s dynamic shroud.wmv",
+      "album": "I'll Try Living Like This",
+      "url": "https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this",
+      "art": "https://f4.bcbits.com/img/a0102733853_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 62
+    },
+    {
+      "id": 91,
+      "artist": "death’s dynamic shroud.wmv",
+      "album": "DERELICTメガタワー",
+      "url": "https://deathsdynamicshroud.bandcamp.com/album/derelict-3",
+      "art": "https://f4.bcbits.com/img/a3019981019_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 17
+    },
+    {
+      "id": 106,
+      "artist": "dstnt",
+      "album": "NSII / Night Signals II",
+      "url": "https://vektroid.bandcamp.com/album/night-signals-ii",
+      "art": "https://f4.bcbits.com/img/a2307680407_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 410,
+      "artist": "esc 不在",
+      "album": "MIDI Dungeon",
+      "url": "https://www.youtube.com/watch?v=uKH6NCAp0oU",
+      "art": "",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 124,
+      "artist": "fortune500",
+      "album": "The Music of the Now Age III",
+      "url": "https://fortune500.bandcamp.com/album/the-music-of-the-now-age-iii",
+      "art": "https://f4.bcbits.com/img/a2232168348_7.jpg",
+      "tags": [
+        "compilation"
+      ],
+      "fans": 1
+    },
+    {
+      "id": 122,
+      "artist": "fortune500",
+      "album": "Music Of The Now Age",
+      "url": "https://fortune500.bandcamp.com/album/the-music-of-the-now-age",
+      "art": "https://f4.bcbits.com/img/a4017363106_7.jpg",
+      "tags": [
+        "compilation"
+      ],
+      "fans": 67
+    },
+    {
+      "id": 123,
+      "artist": "fortune500",
+      "album": "Music Of The Now Age II",
+      "url": "https://fortune500.bandcamp.com/album/the-music-of-the-now-age-ii",
+      "art": "https://f4.bcbits.com/img/a0442667341_7.jpg",
+      "tags": [
+        "compilation"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 128,
+      "artist": "futurebandit",
+      "album": "Virtual Memory",
+      "url": "https://new-world.bandcamp.com/album/virtual-memory",
+      "art": "https://f4.bcbits.com/img/a2981659745_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 29
+    },
+    {
+      "id": 397,
+      "artist": "g h o s t i n g",
+      "album": "Virtual Saxophone Transmissions",
+      "url": "https://www.youtube.com/watch?v=arOm8LyEcMQ",
+      "art": "",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 129,
+      "artist": "g h o s t i n g",
+      "album": "Telenights",
+      "url": "https://dreamcatalogue.bandcamp.com/album/telenights",
+      "art": "https://f4.bcbits.com/img/a1289916539_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 44
+    },
+    {
+      "id": 143,
+      "artist": "haircuts for men",
+      "album": "パステル勾配 lp",
+      "url": "https://commercialdreamsltd.bandcamp.com/album/lp",
+      "art": "https://f4.bcbits.com/img/a1843361317_7.jpg",
+      "tags": [
+        "post-vapor"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 144,
+      "artist": "haircuts for men",
+      "album": "大理石のファンタジー",
+      "url": "http://music.businesscasual.biz/album/--12",
+      "art": "https://f4.bcbits.com/img/a1379942324_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 183,
+      "artist": "kyonpalm",
+      "album": "Process",
+      "url": "https://kyonpalm.bandcamp.com/album/process",
+      "art": "https://f4.bcbits.com/img/a3896717455_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 3
+    },
+    {
+      "id": 184,
+      "artist": "la trace",
+      "album": "LITE TOUCH",
+      "url": "https://latracechicago.bandcamp.com/album/lite-touch",
+      "art": "https://f4.bcbits.com/img/a2431923426_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 4
+    },
+    {
+      "id": 202,
+      "artist": "manitee",
+      "album": "marianas trench",
+      "url": "https://manitee.bandcamp.com/album/marianas-trench",
+      "art": "https://f4.bcbits.com/img/a1840533918_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 14
+    },
+    {
+      "id": 215,
+      "artist": "nano神社 (✪㉨✪)",
+      "album": "SEGAS",
+      "url": "https://nanoshrine.bandcamp.com/album/segas-superdeluxeedition",
+      "art": "https://f4.bcbits.com/img/a1148176716_7.jpg",
       "tags": [
         "future-funk"
+      ],
+      "fans": 16
+    },
+    {
+      "id": 217,
+      "artist": "nano神社 (✪㉨✪)",
+      "album": "SEGAS III",
+      "url": "http://dmtrec.bandcamp.com/album/segas-iii",
+      "art": "https://f4.bcbits.com/img/a0447316203_7.jpg",
+      "tags": [
+        "future-funk"
+      ],
+      "fans": 40
+    },
+    {
+      "id": 216,
+      "artist": "nano神社 (✪㉨✪)",
+      "album": "SEGAS II",
+      "url": "https://nanoshrine.bandcamp.com/album/segas-ii-2",
+      "art": "https://f4.bcbits.com/img/a3244981099_7.jpg",
+      "tags": [
+        "future-funk"
+      ],
+      "fans": 5
+    },
+    {
+      "id": 255,
+      "artist": "s a k i 夢",
+      "album": "夢の中で失われました",
+      "url": "https://sakidream.bandcamp.com/album/-",
+      "art": "https://f4.bcbits.com/img/a0258481532_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 28
+    },
+    {
+      "id": 279,
+      "artist": "t e l e p a t h テレパシー能力者",
+      "album": "断線",
+      "url": "https://telepathtelepath.bandcamp.com/album/--33",
+      "art": "https://f4.bcbits.com/img/a4053694378_7.jpg",
+      "tags": [
+        "ambient"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 280,
+      "artist": "t e l e p a t h テレパシー能力者",
+      "album": "星間性交",
+      "url": "https://telepathtelepath.bandcamp.com/album/--40",
+      "art": "https://f4.bcbits.com/img/a1318949488_7.jpg",
+      "tags": [
+        "ambient"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 281,
+      "artist": "t e l e p a t h テレパシー能力者",
+      "album": "未来へ",
+      "url": "https://telepathtelepath.bandcamp.com/album/--5",
+      "art": "https://f4.bcbits.com/img/a2644196199_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 277,
+      "artist": "t e l e p a t h テレパシー能力者",
+      "album": "アンタラ通信",
+      "url": "https://dreamcatalogue.bandcamp.com/album/--19",
+      "art": "https://f4.bcbits.com/img/a2437765163_7.jpg",
+      "tags": [
+        "ambient"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 282,
+      "artist": "t e l e p a t h テレパシー能力者",
+      "album": "現実を超えて",
+      "url": "https://telepathtelepath.bandcamp.com/album/--12",
+      "art": "https://f4.bcbits.com/img/a3616147813_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 278,
+      "artist": "t e l e p a t h テレパシー能力者",
+      "album": "一緒に別の夜",
+      "url": "https://dreamcatalogue.bandcamp.com/album/--25",
+      "art": "https://f4.bcbits.com/img/a2447787189_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 407,
+      "artist": "t e l e p a t h テレパシー能力者 & Vincent Remember",
+      "album": "ｉｎｔｅｒｓｔｅｌｌａｒ ｌｏｖｅ",
+      "url": "https://www.youtube.com/watch?v=SQxLkMZpqog",
+      "art": "",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 283,
+      "artist": "t e l e p a t h テレパシー能力者 & 猫 シ Corp.",
+      "album": "テレパシーの",
+      "url": "https://telepathtelepath.bandcamp.com/album/--10",
+      "art": "https://f4.bcbits.com/img/a2369691167_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 287,
+      "artist": "tech noir",
+      "album": "齐",
+      "url": "https://elemental95.bandcamp.com/album/--2",
+      "art": "https://f4.bcbits.com/img/a4025469776_7.jpg",
+      "tags": [
+        "ambient",
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 317,
+      "artist": "vice*AIRバイス*空気自然の愛",
+      "album": "cyber city dreams サイバーシティーの夢",
+      "url": "http://music.businesscasual.biz/album/cyber-city-dreams",
+      "art": "https://f4.bcbits.com/img/a0114504314_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 321,
+      "artist": "w u s o 命",
+      "album": "Lonely Streets",
+      "url": "http://crystaltone.bandcamp.com/album/lonely-streets",
+      "art": "https://f4.bcbits.com/img/a1122890737_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 14
+    },
+    {
+      "id": 322,
+      "artist": "wakesleep",
+      "album": "Three Thousand Flora",
+      "url": "https://afternoonsmodeling.bandcamp.com/album/three-thousand-flora",
+      "art": "https://f4.bcbits.com/img/a1708093616_7.jpg",
+      "tags": [
+        "experimental"
+      ],
+      "fans": 42
+    },
+    {
+      "id": 324,
+      "artist": "waterfront dining",
+      "album": "Sprung 夢中",
+      "url": "https://waterfrontdining.bandcamp.com/album/sprung",
+      "art": "https://f4.bcbits.com/img/a3272215548_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 325,
+      "artist": "waterfront dining & 猫 シ Corp.",
+      "album": "...With Love 愛を込めて",
+      "url": "https://dmtrec.bandcamp.com/album/with-love",
+      "art": "https://f4.bcbits.com/img/a0125021048_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 65
+    },
+    {
+      "id": 331,
+      "artist": "wosX",
+      "album": "Brasil World Cup 2034",
+      "url": "https://dreamcatalogue.bandcamp.com/album/brasil-world-cup-2034",
+      "art": "https://f4.bcbits.com/img/a1031271826_7.jpg",
+      "tags": [
+        "hardvapor"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 9,
+      "artist": "§E▲ ▓F D▓G§",
+      "album": "In Search Of God",
+      "url": "https://midnightmoontapes.bandcamp.com/album/in-search-of-god",
+      "art": "https://f4.bcbits.com/img/a0618456498_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 39
+    },
+    {
+      "id": 10,
+      "artist": "§E▲ ▓F D▓G§",
+      "album": "OG GLAZED VOL. 1",
+      "url": "https://elemental95.bandcamp.com/album/og-glazed-vol-1",
+      "art": "https://f4.bcbits.com/img/a0607242006_7.jpg",
+      "tags": [
+        "experimental"
       ],
       "fans": 80
     },
@@ -3771,68 +3870,90 @@
       "fans": 80
     },
     {
-      "id": 343,
-      "artist": "식료품groceries",
-      "album": "HOUSEWARES",
-      "url": "https://groceries-store.bandcamp.com/album/housewares",
-      "art": "https://f4.bcbits.com/img/a4263389132_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 8
-    },
-    {
-      "id": 344,
-      "artist": "식료품groceries",
-      "album": "슈퍼마켓Yes! We’re Open",
-      "url": "https://groceries-store.bandcamp.com/album/yes-we-re-open",
-      "art": "https://f4.bcbits.com/img/a0909867421_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 37
-    },
-    {
-      "id": 345,
-      "artist": "회사AUTO",
-      "album": "-Q-",
-      "url": "https://auto-7.bandcamp.com/album/q",
-      "art": "https://f4.bcbits.com/img/a1534232788_7.jpg",
+      "id": 335,
+      "artist": "ᴡ ᴇ в s ɪ ᴛ ᴇ ツ",
+      "album": "child of WebTV",
+      "url": "https://swampcircle.bandcamp.com/album/child-of-webtv-sw-040",
+      "art": "https://f4.bcbits.com/img/a3980661575_7.jpg",
       "tags": [
         "hypnagogic"
       ],
-      "fans": 21
+      "fans": 1
     },
     {
-      "id": 346,
-      "artist": "회사AUTO",
-      "album": "Greatest Hits",
-      "url": "https://plasticresponserecords.bandcamp.com/album/greatest-hits",
-      "art": "https://f4.bcbits.com/img/a3620576056_7.jpg",
+      "id": 156,
+      "artist": "ℍUM♥ℕIGHTM♥RE",
+      "album": "♥",
+      "url": "https://humanightmare.bandcamp.com/album/-",
+      "art": "https://f4.bcbits.com/img/a1802256755_7.jpg",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 13,
+      "artist": "░▒▓新しいデラックスライフ▓▒░",
+      "album": "▣世界から解放され▣",
+      "url": "https://internetclub.bandcamp.com/album/-",
+      "art": "https://f4.bcbits.com/img/a3735408238_7.jpg",
       "tags": [
         "vaporwave"
       ],
-      "fans": 74
+      "fans": 80
     },
     {
-      "id": 347,
-      "artist": "회사AUTO",
-      "album": "The Lovers Pure",
-      "url": "https://auto-7.bandcamp.com/album/the-lovers-pure",
-      "art": "https://f4.bcbits.com/img/a2527551362_7.jpg",
+      "id": 8,
+      "artist": "「サンセット Ｎｅｔｗｏｒｋ❾❶」",
+      "album": "Strangers Once Lovers「メモリー」",
+      "url": "https://dmtrec.bandcamp.com/album/strangers-once-lovers",
+      "art": "https://f4.bcbits.com/img/a2652260667_7.jpg",
       "tags": [
-        "hypnagogic"
+        "vaporwave"
       ],
       "fans": 43
     },
     {
-      "id": 348,
-      "artist": "회사AUTO",
-      "album": "仙Android",
-      "url": "https://dreamcatalogue.bandcamp.com/album/android",
-      "art": "https://f4.bcbits.com/img/a2064477691_7.jpg",
+      "id": 7,
+      "artist": "「サンセット Ｎｅｔｗｏｒｋ❾❶」",
+      "album": "ＨＩＧＨ～ＦＡＳＨＩＯＮ「犯罪現場」",
+      "url": "https://sunset-network.bandcamp.com/album/--4",
+      "art": "https://f4.bcbits.com/img/a0558740325_7.jpg",
       "tags": [
-        "hypnagogic"
+        "vaporwave"
+      ],
+      "fans": 27
+    },
+    {
+      "id": 6,
+      "artist": "「ｎｅｗｔｙｐｅ」",
+      "album": "ＳＩＭ ＥＡＲＴＨ™ ｕｌｔｒａ気候",
+      "url": "https://newtype420.bandcamp.com/album/-",
+      "art": "https://f4.bcbits.com/img/a2821986195_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 7
+    },
+    {
+      "id": 365,
+      "artist": "べたTOPAZ GANG",
+      "album": "cyprus skate plaza",
+      "url": "https://illuminatedpaths.bandcamp.com/album/cyprus-skate-plaza",
+      "art": "https://f4.bcbits.com/img/a3950895873_7.jpg",
+      "tags": [
+        "post-vapor"
+      ],
+      "fans": 32
+    },
+    {
+      "id": 350,
+      "artist": "コンシャスTHOUGHTS",
+      "album": "Ｌｏｎｅｌｙ Ｎｉｇｈｔｓ",
+      "url": "https://dmttapes.bandcamp.com/album/dmt-110",
+      "art": "https://f4.bcbits.com/img/a0276183705_7.jpg",
+      "tags": [
+        "future-funk"
       ],
       "fans": 80
     },
@@ -3842,17 +3963,6 @@
       "album": "Can't Get Enough",
       "url": "http://beerwizard.net/album/cant-get-enough",
       "art": "https://f4.bcbits.com/img/a2818596132_7.jpg",
-      "tags": [
-        "future-funk"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 350,
-      "artist": "コンシャスTHOUGHTS",
-      "album": "Ｌｏｎｅｌｙ Ｎｉｇｈｔｓ",
-      "url": "https://dmttapes.bandcamp.com/album/dmt-110",
-      "art": "https://f4.bcbits.com/img/a0276183705_7.jpg",
       "tags": [
         "future-funk"
       ],
@@ -3890,6 +4000,17 @@
         "vaportrap"
       ],
       "fans": 34
+    },
+    {
+      "id": 396,
+      "artist": "サイバー '98",
+      "album": "corrupted nature",
+      "url": "https://www.youtube.com/watch?v=A93JoSDqM5I",
+      "art": "",
+      "tags": [
+        "vaportrap"
+      ],
+      "fans": 0
     },
     {
       "id": 354,
@@ -3936,17 +4057,6 @@
       "fans": 80
     },
     {
-      "id": 358,
-      "artist": "チェスマスター",
-      "album": "Night Drive",
-      "url": "https://chesumasuta.bandcamp.com/album/night-drive",
-      "art": "https://f4.bcbits.com/img/a0303771059_7.jpg",
-      "tags": [
-        "vaporwave"
-      ],
-      "fans": 0
-    },
-    {
       "id": 359,
       "artist": "チェスマスター",
       "album": "天使",
@@ -3957,6 +4067,17 @@
         "ambient"
       ],
       "fans": 68
+    },
+    {
+      "id": 358,
+      "artist": "チェスマスター",
+      "album": "Night Drive",
+      "url": "https://chesumasuta.bandcamp.com/album/night-drive",
+      "art": "https://f4.bcbits.com/img/a0303771059_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 0
     },
     {
       "id": 360,
@@ -3981,15 +4102,15 @@
       "fans": 80
     },
     {
-      "id": 362,
-      "artist": "デジタルフォーチュン",
-      "album": "Ｖｉｓｉｏｎ グローバル",
-      "url": "https://digitalfortune.bandcamp.com/album/-",
-      "art": "https://f4.bcbits.com/img/a0356366159_7.jpg",
+      "id": 364,
+      "artist": "テレビ体験",
+      "album": "Y. 2089",
+      "url": "http://tkxvault.bandcamp.com/album/y-2089",
+      "art": "https://f4.bcbits.com/img/a3011539038_7.jpg",
       "tags": [
-        "hypnagogic"
+        "vaporwave"
       ],
-      "fans": 6
+      "fans": 27
     },
     {
       "id": 363,
@@ -4003,26 +4124,15 @@
       "fans": 80
     },
     {
-      "id": 364,
-      "artist": "テレビ体験",
-      "album": "Y. 2089",
-      "url": "http://tkxvault.bandcamp.com/album/y-2089",
-      "art": "https://f4.bcbits.com/img/a3011539038_7.jpg",
+      "id": 362,
+      "artist": "デジタルフォーチュン",
+      "album": "Ｖｉｓｉｏｎ グローバル",
+      "url": "https://digitalfortune.bandcamp.com/album/-",
+      "art": "https://f4.bcbits.com/img/a0356366159_7.jpg",
       "tags": [
-        "vaporwave"
+        "hypnagogic"
       ],
-      "fans": 27
-    },
-    {
-      "id": 365,
-      "artist": "べたTOPAZ GANG",
-      "album": "cyprus skate plaza",
-      "url": "https://illuminatedpaths.bandcamp.com/album/cyprus-skate-plaza",
-      "art": "https://f4.bcbits.com/img/a3950895873_7.jpg",
-      "tags": [
-        "experimental"
-      ],
-      "fans": 32
+      "fans": 6
     },
     {
       "id": 366,
@@ -4034,17 +4144,6 @@
         "future-funk"
       ],
       "fans": 29
-    },
-    {
-      "id": 367,
-      "artist": "マクロスMACROSS 82-99",
-      "album": "A Million Miles Away",
-      "url": "https://macross82-99.bandcamp.com/album/a-million-miles-away",
-      "art": "https://f4.bcbits.com/img/a2908947465_7.jpg",
-      "tags": [
-        "future-funk"
-      ],
-      "fans": 80
     },
     {
       "id": 368,
@@ -4078,6 +4177,17 @@
         "hypnagogic"
       ],
       "fans": 9
+    },
+    {
+      "id": 367,
+      "artist": "マクロスMACROSS 82-99",
+      "album": "A Million Miles Away",
+      "url": "https://macross82-99.bandcamp.com/album/a-million-miles-away",
+      "art": "https://f4.bcbits.com/img/a2908947465_7.jpg",
+      "tags": [
+        "future-funk"
+      ],
+      "fans": 80
     },
     {
       "id": 371,
@@ -4168,6 +4278,28 @@
       "fans": 80
     },
     {
+      "id": 408,
+      "artist": "死夢VANITY",
+      "album": "f a n t a s y 真夜中のアパート",
+      "url": "https://www.youtube.com/watch?v=T5oKg-_GSzw",
+      "art": "",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 382,
+      "artist": "猫 シ Corp.",
+      "album": "Palm Mall",
+      "url": "https://catsystemcorp.bandcamp.com/album/palm-mall",
+      "art": "https://f4.bcbits.com/img/a4117042954_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 80
+    },
+    {
       "id": 379,
       "artist": "猫 シ Corp.",
       "album": "HIRAETH",
@@ -4175,17 +4307,6 @@
       "art": "https://f4.bcbits.com/img/a3078319365_7.jpg",
       "tags": [
         "hypnagogic"
-      ],
-      "fans": 80
-    },
-    {
-      "id": 380,
-      "artist": "猫 シ Corp.",
-      "album": "OASYS 博物館",
-      "url": "https://catsystemcorp.bandcamp.com/album/oasys",
-      "art": "https://f4.bcbits.com/img/a2608868987_7.jpg",
-      "tags": [
-        "mallsoft"
       ],
       "fans": 80
     },
@@ -4201,13 +4322,13 @@
       "fans": 80
     },
     {
-      "id": 382,
+      "id": 380,
       "artist": "猫 シ Corp.",
-      "album": "Palm Mall",
-      "url": "https://catsystemcorp.bandcamp.com/album/palm-mall",
-      "art": "https://f4.bcbits.com/img/a4117042954_7.jpg",
+      "album": "OASYS 博物館",
+      "url": "https://catsystemcorp.bandcamp.com/album/oasys",
+      "art": "https://f4.bcbits.com/img/a2608868987_7.jpg",
       "tags": [
-        "vaporwave"
+        "mallsoft"
       ],
       "fans": 80
     },
@@ -4223,17 +4344,6 @@
       "fans": 13
     },
     {
-      "id": 384,
-      "artist": "猫 シ Corp. & Stereo Component",
-      "album": "Ocean Beach",
-      "url": "https://fortune500.bandcamp.com/album/ocean-beach",
-      "art": "https://f4.bcbits.com/img/a0529979804_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 3
-    },
-    {
       "id": 385,
       "artist": "猫 シ Corp. & SYLLABUS",
       "album": "Double Date",
@@ -4243,6 +4353,17 @@
         "vaporwave"
       ],
       "fans": 77
+    },
+    {
+      "id": 384,
+      "artist": "猫 シ Corp. & Stereo Component",
+      "album": "Ocean Beach",
+      "url": "https://fortune500.bandcamp.com/album/ocean-beach",
+      "art": "https://f4.bcbits.com/img/a0529979804_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 3
     },
     {
       "id": 386,
@@ -4267,17 +4388,6 @@
       "fans": 43
     },
     {
-      "id": 388,
-      "artist": "豊平区民TOYOHIRAKUMIN",
-      "album": "MUSIC IN THE AIR",
-      "url": "https://dreamcatalogue.bandcamp.com/album/music-in-the-air",
-      "art": "https://f4.bcbits.com/img/a3694091764_7.jpg",
-      "tags": [
-        "hypnagogic"
-      ],
-      "fans": 25
-    },
-    {
       "id": 389,
       "artist": "豊平区民TOYOHIRAKUMIN",
       "album": "メモリーレーン",
@@ -4287,6 +4397,17 @@
         "vaporwave"
       ],
       "fans": 34
+    },
+    {
+      "id": 388,
+      "artist": "豊平区民TOYOHIRAKUMIN",
+      "album": "MUSIC IN THE AIR",
+      "url": "https://dreamcatalogue.bandcamp.com/album/music-in-the-air",
+      "art": "https://f4.bcbits.com/img/a3694091764_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 25
     },
     {
       "id": 390,
@@ -4307,6 +4428,127 @@
       "art": "https://f4.bcbits.com/img/a3508575363_7.jpg",
       "tags": [
         "vaporwave"
+      ],
+      "fans": 51
+    },
+    {
+      "id": 398,
+      "artist": "骨架的",
+      "album": "Ancient Science",
+      "url": "https://www.youtube.com/watch?v=BO4dwZvCiPA",
+      "art": "",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 412,
+      "artist": "骨架的",
+      "album": "Lost Memories",
+      "url": "https://www.youtube.com/watch?v=wX5s_XKrJiA",
+      "art": "",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 0
+    },
+    {
+      "id": 344,
+      "artist": "식료품groceries",
+      "album": "슈퍼마켓Yes! We’re Open",
+      "url": "https://groceries-store.bandcamp.com/album/yes-we-re-open",
+      "art": "https://f4.bcbits.com/img/a0909867421_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 37
+    },
+    {
+      "id": 343,
+      "artist": "식료품groceries",
+      "album": "HOUSEWARES",
+      "url": "https://groceries-store.bandcamp.com/album/housewares",
+      "art": "https://f4.bcbits.com/img/a4263389132_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 8
+    },
+    {
+      "id": 345,
+      "artist": "회사AUTO",
+      "album": "-Q-",
+      "url": "https://auto-7.bandcamp.com/album/q",
+      "art": "https://f4.bcbits.com/img/a1534232788_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 21
+    },
+    {
+      "id": 346,
+      "artist": "회사AUTO",
+      "album": "Greatest Hits",
+      "url": "https://plasticresponserecords.bandcamp.com/album/greatest-hits",
+      "art": "https://f4.bcbits.com/img/a3620576056_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 74
+    },
+    {
+      "id": 348,
+      "artist": "회사AUTO",
+      "album": "仙Android",
+      "url": "https://dreamcatalogue.bandcamp.com/album/android",
+      "art": "https://f4.bcbits.com/img/a2064477691_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 80
+    },
+    {
+      "id": 347,
+      "artist": "회사AUTO",
+      "album": "The Lovers Pure",
+      "url": "https://auto-7.bandcamp.com/album/the-lovers-pure",
+      "art": "https://f4.bcbits.com/img/a2527551362_7.jpg",
+      "tags": [
+        "hypnagogic"
+      ],
+      "fans": 43
+    },
+    {
+      "id": 130,
+      "artist": "ＧＡＭＥＳＨＡＲＫ™",
+      "album": "SHARK 2 パラサイトシングル",
+      "url": "https://midnightmoontapes.bandcamp.com/album/shark-2",
+      "art": "https://f4.bcbits.com/img/a1865089103_7.jpg",
+      "tags": [
+        "post-vapor"
+      ],
+      "fans": 23
+    },
+    {
+      "id": 174,
+      "artist": "Ｋ Ｅ Ｎ Ｎ Ｙ ❖ Ｌ Ｏ Ｇ Ｉ Ｎ",
+      "album": "FOOD COURT Ａｆｔｅｒｈｏｕｒｓフードコートの業務時間外",
+      "url": "https://questionrecords.bandcamp.com/album/food-court",
+      "art": "https://f4.bcbits.com/img/a3013923763_7.jpg",
+      "tags": [
+        "vaporwave"
+      ],
+      "fans": 11
+    },
+    {
+      "id": 326,
+      "artist": "Ｗｅｓｔｅｒｎ Ｄｉｇｉｔａｌand Digital Sex",
+      "album": "On The Horizon",
+      "url": "https://adhesivesounds.bandcamp.com/album/on-the-horizon-2",
+      "art": "https://f4.bcbits.com/img/a0798040973_7.jpg",
+      "tags": [
+        "hypnagogic"
       ],
       "fans": 51
     }
