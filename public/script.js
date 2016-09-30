@@ -3,19 +3,35 @@ var forEach = function (array, callback, scope) {
 		callback.call(scope, i, array[i])
 	}
 }
-var size = document.querySelector('.img').clientWidth
-var width = size > 150 ? '200' : '150'
-var imgs = document.querySelectorAll('.img')
-forEach(imgs, function(i, v) {
-	var img = imgs[i].getAttribute('data-src')
-	imgs[i].style.backgroundImage = 'url(/'+width+'/'+img+'.jpg)'
-})
+try {
+	var size = document.querySelector('.img').clientWidth
+	var width = size > 150 ? '200' : '150'
+	var imgs = document.querySelectorAll('.img')
+	forEach(imgs, function(i, v) {
+		var img = imgs[i].getAttribute('data-src')
+		imgs[i].style.backgroundImage = 'url(/'+width+'/'+img+'.jpg)'
+	})
+} catch(e) {
 
-var art = document.querySelectorAll('.art')
-forEach(art, function(i, v) {
-	var img = art[i].getAttribute('data-src')
-	art[i].style.backgroundImage = 'url('+img+')'
-})
+}
+try {
+	var size1 = document.querySelector('.art').clientWidth
+	var w1
+	if (size1 > 450) {
+		w1 = '675'
+	} else if (size1 > 225) {
+		w1 = '450'
+	} else {
+		w1 = '225'
+	}
+	var art = document.querySelectorAll('.art')
+	forEach(art, function(i, v) {
+		var img = art[i].getAttribute('data-src')
+		art[i].style.backgroundImage = 'url(/art/'+w1+'/'+img+'.jpg)'
+	})
+} catch(e) {
+	
+}
 
 var nav = document.getElementById("nav")
 document.addEventListener("scroll", function(event) {
