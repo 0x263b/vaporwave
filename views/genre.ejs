@@ -26,7 +26,7 @@
 			<% albums.slice((index -1 ) * 24, (index -1 ) * 24 + 24).forEach(function(album){ %>
 				<li>
 					<a href="<%= album.url %>">
-						<div class="img" data-src="/300/<%= album.id %>.jpg"></div>
+						<div class="img" data-src="<%= album.id %>"></div>
 						<span aria-label="Album: <%= album.album %>, by <%= album.artist %>"><b><%= album.album %></b><br>
 						<i><%= album.artist %></i></span>
 					</a>

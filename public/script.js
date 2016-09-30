@@ -3,17 +3,15 @@ var forEach = function (array, callback, scope) {
 		callback.call(scope, i, array[i])
 	}
 }
-var qs = function(q) {
-	return document.querySelectorAll(q)
-}
-
-var imgs = qs('.img')
+var size = document.querySelector('.img').clientWidth
+var width = size > 150 ? '200' : '150'
+var imgs = document.querySelectorAll('.img')
 forEach(imgs, function(i, v) {
 	var img = imgs[i].getAttribute('data-src')
-	imgs[i].style.backgroundImage = 'url('+img+')'
+	imgs[i].style.backgroundImage = 'url(/'+width+'/'+img+'.jpg)'
 })
 
-var art = qs('.art')
+var art = document.querySelectorAll('.art')
 forEach(art, function(i, v) {
 	var img = art[i].getAttribute('data-src')
 	art[i].style.backgroundImage = 'url('+img+')'
