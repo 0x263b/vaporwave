@@ -1,72 +1,47 @@
 {
   "ambient": {
     "name": "Ambient",
-    "desc": "",
-    "slug": "ambient",
-    "background": "#1899bc",
-    "foreground": "#fff"
+    "desc": "Like traditional Ambient, these albums put an emphasis on tone, with the Vaporwave tradition of trying to conjure up nostalgic imagery.",
+    "slug": "ambient"
   },
   "compilation": {
     "name": "Compilation",
-    "desc": "",
-    "slug": "compilation",
-    "background": "#fff",
-    "foreground": "#000"
+    "desc": "Albums put out either by record labels or a group of artists. Listening to these is the best way to get intorduced into the variety of artists and sounds Vaporwave has to offer.",
+    "slug": "compilation"
   },
   "experimental": {
     "name": "Experimental",
-    "desc": "",
-    "slug": "experimental",
-    "background": "#001c32",
-    "foreground": "#fff"
+    "desc": "Albums that try to push the limits of what can be considered Vaporwave.",
+    "slug": "experimental"
   },
   "future-funk": {
     "name": "Future Funk",
-    "desc": "",
-    "slug": "future-funk",
-    "background": "#15f3c1",
-    "foreground": "#000"
+    "desc": "An offshoot of Vaporwave that utilizes 70’s, 80’s, and 90’s disco/funk/R&B sounds with an affinity for nostalgic sounds, lo-fi distortion, and slowed-down samples. ",
+    "slug": "future-funk"
   },
   "hardvapour": {
     "name": "Hardvapour",
-    "desc": "What can also be described as Punk Vaporwave, Hardvapour takes the vaporwave method of sampling and recontextualization, and applyies it to industrial, drum 'n' bass, and acid house, to make a more agressive sound.",
-    "slug": "hardvapour",
-    "background": "#ff3a28",
-    "foreground": "#fff"
+    "desc": "What can also be described as Punk Vaporwave, Hardvapour takes the Vaporwave method of sampling and recontextualization, and applyies it to industrial, drum ‘n’ bass, and acid house, to make a more agressive sound.",
+    "slug": "hardvapour"
   },
   "hypnagogic": {
     "name": "Hypnagogic",
-    "desc": "",
-    "slug": "hypnagogic",
-    "background": "#312670",
-    "foreground": "#fff"
+    "desc": "One of the earliest forms of Vaporwave, Hypnagogic is more dream-like than other sub-genres, creating weird hypnagogic atmospheres from strange samples forming music that sometimes borders on being ambient. Arguably the sub-genre most commonly known for using strange and evocative imagery to emphasize the surrealism of the music.",
+    "slug": "hypnagogic"
   },
   "mallsoft": {
     "name": "Mallsoft",
-    "desc": "",
-    "slug": "mallsoft",
-    "background": "#fddcec",
-    "foreground": "#57335f"
-  },
-  "post-vapor": {
-    "name": "Post-Vaporwave",
-    "desc": "",
-    "slug": "post-vapor",
-    "background": "#000",
-    "foreground": "gold"
+    "desc": "Mallsoft, or “elevator music”, is a vague type of background music, often containing elements of smooth jazz, pop, bossa nova or soft rock. Its distinction is that it’s typically meant to be left on repeat while the listener does other things. The repetition of the music eventually forces its way into the listener’s mind subconsciously, to be recalled at later date as a memory of something that may or may not have happened.",
+    "slug": "mallsoft"
   },
   "vaportrap": {
     "name": "Vaportrap",
-    "desc": "",
-    "slug": "vaportrap",
-    "background": "#312670",
-    "foreground": "#fff"
+    "desc": "Hi-tech Trap and Hip Hop music that makes use of Vaporwave imagery and musical textures. But being Vaporwave, it tends to be much more inventive and experimental than typical trap or hip hop and certainly feels immediatly Vaporwave upon listening.",
+    "slug": "vaportrap"
   },
   "vaporwave": {
     "name": "Vaporwave",
     "desc": "Characterized predominantly by samples of 80‘s and 90’s pop, funk, and disco releases, slowed down, rearranged, fliped, and reversed to create an new orignal work. Vaporwave tracks often are a comment on the kitschy and/or banal source material, or mass production as a whole.",
-    "slug": "vaporwave",
-    "background": "#312670",
-    "foreground": "#fff"
+    "slug": "vaporwave"
   }
 }
