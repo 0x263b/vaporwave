@@ -5,7 +5,7 @@ var compression  = require('compression'),
 	express      = require('express'),
 	app          = express(),
 	albums       = require('./data/albums.json'),
-	tags         = require('./data/genres.json')
+	genres       = require('./data/genres.json')
 
 // Set port
 app.set('port', (process.env.PORT || process.env.port || 3000))
@@ -21,9 +21,14 @@ app.set('views', __dirname)
 app.use(compression())
 
 
-function findTag(album) { 
+function findAlbums(album) { 
 	return album.tags.includes(this)
 }
+
+function findGenre(genre) {
+	return genre.slug === this
+}
+
 
 Array.prototype.sample = function(size) {
 	var shuffled = this.slice(0), i = this.length, temp, index
@@ -40,14 +45,15 @@ Array.prototype.sample = function(size) {
 app.get('/music/:tag/:page?', function(req, res) {
 	var index = typeof req.params.page === 'undefined' ? 1 : parseInt(req.params.page)
 
-	if (!tags.hasOwnProperty(req.params.tag)) {
+	if (typeof genres.data.find(findGenre, req.params.tag) === 'undefined') {
 		return res.sendStatus(404) // Unknown tag
 	}
 
 	var opts = {
-		albums: albums.data.filter(findTag, req.params.tag),
-		index: index,
-		tag: tags[req.params.tag]
+		albums: albums.data.filter(findAlbums, req.params.tag),
+		genre: genres.data.find(findGenre, req.params.tag),
+		genres: genres.data,
+		index: index
 	}
 
 	if ((index - 1) * 24 > opts.albums.length) {
@@ -62,8 +68,8 @@ app.get('/music/:tag/:page?', function(req, res) {
 app.get('/', function(req, res) {
 	var opts = {
 		albums: albums.data,
-		genres: tags,
-		findTag: function(album) {
+		genres: genres.data,
+		findAlbums: function(album) {
 			return album.tags.includes(this)
 		}
 	}

@@ -12,126 +12,38 @@
 </head>
 <body>
 
-<section class="genre header">
-	<h1>Essential<br>Vaporwave</h1>
-	<p class="desc">
-		Vaporwave is a music genre and art movement that emerged in the early 2010’s on various Internet communities. Characterized by a nostalgic or surrealist fascination with cultural aesthetics of the late 80’s and early 90’s, entertainment technology, consumer culture and advertising, and styles of corporate and popular music such as lounge, smooth jazz and elevator music.
-	</p>
+<header>
+	<section class="genre">
+		<h1>Essential<br>Vaporwave</h1>
+		<p class="desc">
+			Vaporwave is a music genre and art movement that emerged in the early 2010’s on various Internet communities. Characterized by a nostalgic or surrealist fascination with cultural aesthetics of the late 80’s and early 90’s, entertainment technology, consumer culture and advertising, and styles of corporate and popular music such as lounge, smooth jazz and elevator music.
+		</p>
 
-	<nav id="nav">
-		<ul>
-			<li><a href="/#vaporwave">Vaporwave</a></li>
-			<li><a href="/#future-funk">Future Funk</a></li>
-			<li><a href="/#hypnagogic">Hypnagogic</a></li>
-			<li><a href="/#vaportrap">Vaportrap</a></li>
-			<li><a href="/#compilation">Compilations</a></li>
-			<li><a href="/#ambient">Ambient</a></li>
-			<li><a href="/#mallsoft">Mallsoft</a></li>
-			<li><a href="/#experimental">Experimental</a></li>
-			<li><a href="/#further-reading">Further Reading</a></li>
-		</ul>
-	</nav>
-</section>
-
+		<nav id="nav">
+			<ul>
+				<% genres.forEach(function(genre){ %>
+					<li><a href="/music/<%= genre.slug %>"><%= genre.name %></a></li>
+				<% }) %>
+				<li><a href="/#further-reading">Further Reading</a></li>
+			</ul>
+		</nav>
+	</section>
+</header>
 <main>
 
-	<section class="genre" id="vaporwave">
-		<a href="/music/vaporwave" aria-label="Browse Vaporwave Albums">
-			<div class="art" data-src="vaporwave"></div>
+	<% genres.forEach(function(genre){ %>
+	<section class="genre" id="<%= genre.slug %>">
+		<a href="/music/<%= genre.slug %>" aria-label="Browse <%= genre.name %> Albums">
+			<div class="art" data-src="<%= genre.slug %>"></div>
 		</a>
 		<div class="padding">
-			<h1 class="heading">Vaporwave</h1>
-			<span class="total"><%= albums.filter(findTag, 'vaporwave').length %> Albums</span>
-			<p class="desc"><%= genres['vaporwave'].desc %></p>
-			<a class="more" href="/music/vaporwave">Browse Albums →</a>
+			<h1 class="vertical"><%= genre.name %></h1>
+			<span class="total"><%= albums.filter(findAlbums, genre.slug).length %> Albums</span>
+			<p class="desc"><%= genre.desc %></p>
+			<a class="more" href="/music/<%= genre.slug %>">Browse Albums →</a>
 		</div>
 	</section>
-
-	<section class="genre" id="future-funk">
-		<a href="/music/future-funk" aria-label="Browse Future Funk Albums">
-			<div class="art" data-src="future-funk"></div>
-		</a>
-		<div class="padding">
-			<h1 class="heading">Future Funk</h1>
-			<span class="total"><%= albums.filter(findTag, 'future-funk').length %> Albums</span>
-			<p class="desc"><%= genres['future-funk'].desc %></p>
-			<a class="more" href="/music/future-funk">Browse Albums →</a>
-		</div>
-	</section>
-
-	<section class="genre" id="hypnagogic">
-		<a href="/music/hypnagogic" aria-label="Browse Hypnagogic Albums">
-			<div class="art" data-src="hypnagogic"></div>
-		</a>
-		<div class="padding">
-			<h1 class="heading">Hypnagogic</h1>
-			<span class="total"><%= albums.filter(findTag, 'hypnagogic').length %> Albums</span>
-			<p class="desc"><%= genres['hypnagogic'].desc %></p>
-			<a class="more" href="/music/hypnagogic">Browse Albums →</a>
-		</div>
-	</section>
-
-	<section class="genre" id="vaportrap">
-		<a href="/music/vaportrap" aria-label="Browse Vaportrap Albums">
-			<div class="art" data-src="vaportrap"></div>
-		</a>
-		<div class="padding">
-			<h1 class="heading">Vaportrap</h1>
-			<span class="total"><%= albums.filter(findTag, 'vaportrap').length %> Albums</span>
-			<p class="desc"><%= genres['vaportrap'].desc %></p>
-			<a class="more" href="/music/vaportrap">Browse Albums →</a>
-		</div>
-	</section>
-
-	<section class="genre" id="compilation">
-		<a href="/music/compilation" aria-label="Browse Compilation Albums">
-			<div class="art" data-src="compilation"></div>
-		</a>
-		<div class="padding">
-			<h1 class="heading">Compilations</h1>
-			<span class="total"><%= albums.filter(findTag, 'compilation').length %> Albums</span>
-			<p class="desc"><%= genres['compilation'].desc %></p>
-			<a class="more" href="/music/compilation">Browse Albums →</a>
-		</div>
-	</section>
-
-	<section class="genre" id="ambient">
-		<a href="/music/ambient" aria-label="Browse Ambient Albums">
-			<div class="art" data-src="ambient"></div>
-		</a>
-		<div class="padding">
-			<h1 class="heading">Ambient</h1>
-			<span class="total"><%= albums.filter(findTag, 'ambient').length %> Albums</span>
-			<p class="desc"><%= genres['ambient'].desc %></p>
-			<a class="more" href="/music/ambient">Browse Albums →</a>
-		</div>
-	</section>
-
-	<section class="genre" id="mallsoft">
-		<a href="/music/mallsoft" aria-label="Browse Mallsoft Albums">
-			<div class="art" data-src="mallsoft"></div>
-		</a>
-		<div class="padding">
-			<h1 class="heading">Mallsoft</h1>
-			<span class="total"><%= albums.filter(findTag, 'mallsoft').length %> Albums</span>
-			<p class="desc"><%= genres['mallsoft'].desc %></p>
-			<a class="more" href="/music/mallsoft">Browse Albums →</a>
-		</div>
-	</section>
-
-	<section class="genre" id="experimental">
-		<a href="/music/experimental" aria-label="Browse Experimental Albums">
-			<div class="art" data-src="experimental"></div>
-		</a>
-		<div class="padding">
-			<h1 class="heading">Experimental</h1>
-			<span class="total"><%= albums.filter(findTag, 'experimental').length %> Albums</span>
-			<p class="desc"><%= genres['experimental'].desc %></p>
-			<a class="more" href="/music/experimental">Browse Albums →</a>
-		</div>
-	</section>
-
-	
+	<% }) %>
 
 	<section class="genre" id="further-reading">
 		<div class="padding">

@@ -9,7 +9,7 @@ try {
 	var imgs = document.querySelectorAll('.img')
 	forEach(imgs, function(i, v) {
 		var img = imgs[i].getAttribute('data-src')
-		imgs[i].style.backgroundImage = 'url(/'+width+'/'+img+'.jpg)'
+		imgs[i].style.backgroundImage = 'url(/albums/'+width+'/'+img+'.jpg)'
 	})
 } catch(e) {
 
@@ -27,14 +27,14 @@ try {
 	var art = document.querySelectorAll('.art')
 	forEach(art, function(i, v) {
 		var img = art[i].getAttribute('data-src')
-		art[i].style.backgroundImage = 'url(/art/'+w1+'/'+img+'.jpg)'
+		art[i].style.backgroundImage = 'url(/genres/'+w1+'/'+img+'.jpg)'
 	})
 } catch(e) {
 	
 }
 
-var nav = document.getElementById("nav")
-document.addEventListener("scroll", function(event) {
+var nav = document.getElementById('nav')
+document.addEventListener('scroll', function(event) {
 	if (document.body.clientWidth > 800) {
 		alpha = 1 - (document.documentElement.scrollTop || document.body.scrollTop / window.innerHeight)
 		nav.style.opacity = alpha > 0.33 ? alpha : 0.33

@@ -4,23 +4,24 @@
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
-	<title>Essential <%= tag.name %></title>
-	<meta property="og:title" content="Essential <%= tag.name %>" />
-	<meta property="og:description" content="A hand picked list of the very best <%= tag.name %> albums" />
+	<title>Essential <%= genre.name %></title>
+	<meta property="og:title" content="Essential <%= genre.name %>" />
+	<meta property="og:description" content="A hand picked list of the very best <%= genre.name %> albums" />
 	<meta name="theme-color" content="#000">
 	<link rel="stylesheet" type="text/css" href="/style.min.css">
 </head>
 <body>
 
-<section class="genre title">
-	<h1><a href="/music/<%= tag.slug %>"><%= tag.name %></a></h1>
-	<p class="desc">
-		<%= tag.desc %>
-	</p>
-</section>
+<header>
+	<section class="genre">
+		<h1><a href="/music/<%= genre.slug %>"><%= genre.name %></a></h1>
+		<p class="desc">
+			<%= genre.desc %>
+		</p>
+	</section>
+</header>
 
 <main>
-
 	<section id="vaporwave">
 		<ul class="grid">
 			<% albums.slice((index -1 ) * 24, (index -1 ) * 24 + 24).forEach(function(album){ %>
@@ -38,14 +39,14 @@
 	<div class="page">
 		<div>
 			<% if (index > 1) { %>
-			<a href="/music/<%= tag.slug %>/<%= index - 1 %>" aria-label="Go to page <%= index - 1 %>">← Previous</a><% } %>
+			<a href="/music/<%= genre.slug %>/<%= index - 1 %>" aria-label="Go to page <%= index - 1 %>">← Previous</a><% } %>
 		</div>
 		<div>
 			Page <%= index %> of <%= Math.ceil(albums.length / 24) %>
 		</div>
 		<div>
 			<% if ((index - 1) * 24 + 24 < albums.length) { %>
-			<a href="/music/<%= tag.slug %>/<%= index + 1 %>" aria-label="Go to page <%= index + 1 %>">Next →</a><% } %>
+			<a href="/music/<%= genre.slug %>/<%= index + 1 %>" aria-label="Go to page <%= index + 1 %>">Next →</a><% } %>
 		</div>
 	</div>
 
@@ -55,14 +56,9 @@
 	<nav id="nav">
 		<h2><a href="/" aria-label="Return to main page">Essential Vaporwave</a></h2>
 		<ul>
-			<li><a aria-label="Browse Vaporwave Albums" href="/music/vaporwave">Vaporwave</a></li>
-			<li><a aria-label="Browse Future Funk Albums" href="/music/future-funk">Future Funk</a></li>
-			<li><a aria-label="Browse Hypnagogic Albums" href="/music/hypnagogic">Hypnagogic</a></li>
-			<li><a aria-label="Browse Vaportrap Albums" href="/music/vaportrap">Vaportrap</a></li>
-			<li><a aria-label="Browse Compilation Albums" href="/music/compilation">Compilations</a></li>
-			<li><a aria-label="Browse Ambient Albums" href="/music/ambient">Ambient</a></li>
-			<li><a aria-label="Browse Mallsoft Albums" href="/music/mallsoft">Mallsoft</a></li>
-			<li><a aria-label="Browse Experimental Albums" href="/music/experimental">Experimental</a></li>
+		<% genres.forEach(function(genre){ %>
+			<li><a aria-label="Browse <%= genre.name %> Albums" href="/music/<%= genre.slug %>"><%= genre.name %></a></li>
+		<% }) %>
 			<li><a aria-label="Further Reading" href="/#further-reading">Further Reading</a></li>
 		</ul>
 	</nav>
