@@ -46,7 +46,7 @@ app.get('/music/:tag/:page?', function(req, res) {
 	var index = typeof req.params.page === 'undefined' ? 1 : parseInt(req.params.page)
 
 	if (typeof genres.data.find(findGenre, req.params.tag) === 'undefined') {
-		return res.sendStatus(404) // Unknown tag
+		return res.redirect('/404') // Unknown genre
 	}
 
 	var opts = {
@@ -57,7 +57,7 @@ app.get('/music/:tag/:page?', function(req, res) {
 	}
 
 	if ((index - 1) * 24 > opts.albums.length) {
-		return res.sendStatus(404) // Overflow
+		return res.redirect('/404') // Overflow
 	}
 
 	res.header('Cache-Control', 'public, max-age=31536000')
