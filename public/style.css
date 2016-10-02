@@ -6,7 +6,7 @@
 
 html,
 body {
-	font: normal 16px/1.5 BlinkMacSystemFont, -apple-system, 'Roboto', 'Segoe UI', 'Arial Unicode MS', sans-serif;
+	font: normal 16px/1.5 BlinkMacSystemFont, -apple-system, "Roboto", "Segoe UI", "Arial Unicode MS", sans-serif;
 	background-color: #000;
 	color: #fff;
 	padding: 0;
@@ -103,7 +103,7 @@ header {
 	.desc, 
 	.list, 
 	.more {
-		font-family: 'Georgia', 'Times', serif;
+		font-family: "Georgia", "Times", serif;
 		font-size: 1.125em;
 	}
 
@@ -247,6 +247,9 @@ footer {
 
 
 @media (max-width: 800px) {
+	.page {
+		margin: 0;
+	}
 	.grid {
 		margin: 0 auto;
 	}
