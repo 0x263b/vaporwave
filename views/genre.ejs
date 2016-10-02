@@ -56,8 +56,13 @@
 	<nav id="nav">
 		<h2><a href="/" aria-label="Return to main page">Essential Vaporwave</a></h2>
 		<ul>
-		<% genres.forEach(function(genre){ %>
-			<li><a aria-label="Browse <%= genre.name %> Albums" href="/music/<%= genre.slug %>"><%= genre.name %></a></li>
+		<% genres.forEach(function(_genre){ %>
+			<li><a 
+				<% if(_genre === genre) { %>
+				class="active"
+				<% } %>
+				aria-label="Browse <%= _genre.name %> Albums" 
+				href="/music/<%= _genre.slug %>"><%= _genre.name %></a></li>
 		<% }) %>
 			<li><a aria-label="Further Reading" href="/#further-reading">Further Reading</a></li>
 		</ul>
