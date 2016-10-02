@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "desc": "Characterized predominantly by samples of 80\u2019s and 90\u2019s pop, funk, and disco releases, slowed down, rearranged, fliped, and reversed to create an new orignal work. Vaporwave tracks often are a comment on the kitschy and/or banal source material, or mass production as a whole.",
+      "desc": "Characterized predominantly by samples of 80’s and 90’s pop, funk, and disco releases, slowed down, rearranged, fliped, and reversed to create an new orignal work. Vaporwave tracks often are a comment on the kitschy and/or banal source material, or mass production as a whole.",
       "slug": "vaporwave",
       "name": "Vaporwave"
     },
     {
-      "desc": "An offshoot of Vaporwave that utilizes 70\u2019s, 80\u2019s, and 90\u2019s disco/funk/R&B sounds with an affinity for nostalgic sounds, lo-fi distortion, and slowed-down samples. ",
+      "desc": "An offshoot of Vaporwave that utilizes 70’s, 80’s, and 90’s disco/funk/R&B sounds with an affinity for nostalgic sounds, lo-fi distortion, and slowed-down samples. ",
       "slug": "future-funk",
       "name": "Future Funk"
     },
@@ -36,7 +36,7 @@
       "name": "Experimental"
     },
     {
-      "desc": "Mallsoft, or \u201celevator music\u201d, is a vague type of background music, often containing elements of smooth jazz, pop, bossa nova or soft rock. Its distinction is that it\u2019s typically meant to be left on repeat while the listener does other things. The repetition of the music eventually forces its way into the listener\u2019s mind subconsciously, to be recalled at later date as a memory of something that may or may not have happened.",
+      "desc": "Mallsoft, or “elevator music”, is a vague type of background music, often containing elements of smooth jazz, pop, bossa nova or soft rock. Its distinction is that it’s typically meant to be left on repeat while the listener does other things. The repetition of the music eventually forces its way into the listener’s mind subconsciously, to be recalled at later date as a memory of something that may or may not have happened.",
       "slug": "mallsoft",
       "name": "Mallsoft"
     }
