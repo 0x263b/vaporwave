@@ -4,8 +4,8 @@
 var compression  = require('compression'),
 	express      = require('express'),
 	app          = express(),
-	albums       = require('./data/albums.json'),
-	genres       = require('./data/genres.json')
+	albums       = require(__dirname + '/data/albums.json'),
+	genres       = require(__dirname + '/data/genres.json')
 
 // Set port
 app.set('port', (process.env.PORT || process.env.port || 3000))
@@ -41,12 +41,13 @@ Array.prototype.sample = function(size) {
 	return shuffled.slice(0, size)
 }
 
+
 // Routes
 app.get('/music/:tag/:page?', function(req, res) {
 	var index = typeof req.params.page === 'undefined' ? 1 : parseInt(req.params.page)
 
 	if (typeof genres.data.find(findGenre, req.params.tag) === 'undefined') {
-		return res.redirect('/404') // Unknown genre
+		return res.status(404).render('views/404') // Unknown genre
 	}
 
 	var opts = {
@@ -57,13 +58,12 @@ app.get('/music/:tag/:page?', function(req, res) {
 	}
 
 	if ((index - 1) * 24 > opts.albums.length) {
-		return res.redirect('/404') // Overflow
+		return res.status(404).render('views/404') // Overflow
 	}
 
 	res.header('Cache-Control', 'public, max-age=31536000')
 	res.render('views/genre', opts)
 })
-
 
 app.get('/', function(req, res) {
 	var opts = {
@@ -77,7 +77,6 @@ app.get('/', function(req, res) {
 	res.header('Cache-Control', 'public, max-age=31536000')
 	res.render('views/index', opts)
 })
-
 
 app.get('*', function(req, res){
 	res.status(404)
